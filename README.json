@@ -14,7 +14,7 @@
             "last_commit": "2026-04-13T19:43:06Z",
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 20935
+            "stars": 21084
           }
         },
         {
@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T23:31:09Z",
+            "last_commit": "2026-08-15T21:04:07Z",
             "owner": "erigontech",
             "repo": "erigon",
             "stars": 3579
@@ -98,7 +98,7 @@
             "last_commit": "2024-11-09T11:54:38Z",
             "owner": "cipher387",
             "repo": "maltego-transforms-list",
-            "stars": 275
+            "stars": 276
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-08-11T22:28:57Z",
             "owner": "bkrem",
             "repo": "awesome-solidity",
-            "stars": 7038
+            "stars": 7040
           }
         },
         {
@@ -188,7 +188,7 @@
             "last_commit": "2026-08-01T11:57:14Z",
             "owner": "jiep",
             "repo": "offensive-ai-compilation",
-            "stars": 1417
+            "stars": 1418
           }
         },
         {
@@ -202,7 +202,7 @@
             "last_commit": "2025-10-22T21:41:51Z",
             "owner": "cypherpunk-symposium",
             "repo": "dark-forest-toolkit",
-            "stars": 1118
+            "stars": 1117
           }
         },
         {
@@ -286,7 +286,7 @@
             "last_commit": "2024-08-08T15:18:06Z",
             "owner": "husseinmuhaisen",
             "repo": "DiscordOSINT",
-            "stars": 582
+            "stars": 583
           }
         },
         {
@@ -566,7 +566,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T23:39:48.995Z",
+    "last_updated": "2026-08-15T23:36:26.599Z",
     "original_repository": "OffcierCia/On-Chain-Investigations-Tools-List",
     "original_repository_sha": "69769cbdece41e34c72a7b6573b67f583f7e1869",
     "enhanced_repository": "enhansome/enhansome-On-Chain-Investigations-Tools-List",
