@@ -14,7 +14,7 @@
             "last_commit": "2026-04-13T19:43:06Z",
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 21084
+            "stars": 21123
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T21:04:07Z",
+            "last_commit": "2026-08-16T21:24:01Z",
             "owner": "erigontech",
             "repo": "erigon",
-            "stars": 3579
+            "stars": 3580
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-03-08T23:48:27Z",
             "owner": "naddison36",
             "repo": "tx2uml",
-            "stars": 474
+            "stars": 475
           }
         },
         {
@@ -146,7 +146,7 @@
             "last_commit": "2024-07-13T06:27:10Z",
             "owner": "AzizKpln",
             "repo": "Moriarty-Project",
-            "stars": 2064
+            "stars": 2067
           }
         },
         {
@@ -160,7 +160,7 @@
             "last_commit": "2026-02-20T18:11:15Z",
             "owner": "coinspect",
             "repo": "learn-evm-attacks",
-            "stars": 1804
+            "stars": 1802
           }
         },
         {
@@ -174,7 +174,7 @@
             "last_commit": "2026-01-14T20:11:22Z",
             "owner": "ong",
             "repo": "awesome-decentralized-finance",
-            "stars": 1658
+            "stars": 1659
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2024-08-01T23:54:57Z",
             "owner": "OhShINT",
             "repo": "ohshint.gitbook.io",
-            "stars": 958
+            "stars": 961
           }
         },
         {
@@ -230,7 +230,7 @@
             "last_commit": "2024-08-01T23:54:57Z",
             "owner": "OhShINT",
             "repo": "ohshint.gitbook.io",
-            "stars": 958
+            "stars": 961
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2024-12-13T08:22:39Z",
             "owner": "sannykim",
             "repo": "solsec",
-            "stars": 887
+            "stars": 886
           }
         },
         {
@@ -272,7 +272,7 @@
             "last_commit": "2026-06-10T08:51:06Z",
             "owner": "shanzson",
             "repo": "Smart-Contract-Auditor-Tools-and-Techniques",
-            "stars": 810
+            "stars": 809
           }
         },
         {
@@ -286,7 +286,7 @@
             "last_commit": "2024-08-08T15:18:06Z",
             "owner": "husseinmuhaisen",
             "repo": "DiscordOSINT",
-            "stars": 583
+            "stars": 585
           }
         },
         {
@@ -454,7 +454,7 @@
             "last_commit": "2026-08-04T10:22:48Z",
             "owner": "duneanalytics",
             "repo": "dune-client",
-            "stars": 137
+            "stars": 139
           }
         },
         {
@@ -566,7 +566,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T23:36:26.599Z",
+    "last_updated": "2026-08-16T23:35:30.214Z",
     "original_repository": "OffcierCia/On-Chain-Investigations-Tools-List",
     "original_repository_sha": "69769cbdece41e34c72a7b6573b67f583f7e1869",
     "enhanced_repository": "enhansome/enhansome-On-Chain-Investigations-Tools-List",
