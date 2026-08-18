@@ -14,7 +14,7 @@
             "last_commit": "2026-04-13T19:43:06Z",
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 21153
+            "stars": 21178
           }
         },
         {
@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T21:02:54Z",
+            "last_commit": "2026-08-18T22:23:22Z",
             "owner": "erigontech",
             "repo": "erigon",
             "stars": 3580
@@ -56,7 +56,7 @@
             "last_commit": "2026-07-06T06:34:50Z",
             "owner": "naddison36",
             "repo": "sol2uml",
-            "stars": 1314
+            "stars": 1315
           }
         },
         {
@@ -129,10 +129,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-11T22:28:57Z",
+            "last_commit": "2026-08-18T07:55:17Z",
             "owner": "bkrem",
             "repo": "awesome-solidity",
-            "stars": 7044
+            "stars": 7043
           }
         },
         {
@@ -146,7 +146,7 @@
             "last_commit": "2024-07-13T06:27:10Z",
             "owner": "AzizKpln",
             "repo": "Moriarty-Project",
-            "stars": 2068
+            "stars": 2069
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2024-12-13T08:22:39Z",
             "owner": "sannykim",
             "repo": "solsec",
-            "stars": 886
+            "stars": 887
           }
         },
         {
@@ -286,7 +286,7 @@
             "last_commit": "2024-08-08T15:18:06Z",
             "owner": "husseinmuhaisen",
             "repo": "DiscordOSINT",
-            "stars": 586
+            "stars": 587
           }
         },
         {
@@ -566,7 +566,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T23:40:00.182Z",
+    "last_updated": "2026-08-18T23:38:49.777Z",
     "original_repository": "OffcierCia/On-Chain-Investigations-Tools-List",
     "original_repository_sha": "69769cbdece41e34c72a7b6573b67f583f7e1869",
     "enhanced_repository": "enhansome/enhansome-On-Chain-Investigations-Tools-List",
