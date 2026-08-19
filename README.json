@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "Data-Analysis:",
+      "description": "Data-Analysis:\nEasy Quick Start Into On-Chain Investigations!\nVisualization:\nClusterizers:\nSpecific:\nHacks DBs",
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4165675,
             "language": "Python",
             "last_commit": "2026-04-13T19:43:06Z",
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 21178
+            "stars": 21192
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 188836864,
             "language": "Go",
-            "last_commit": "2026-08-18T22:23:22Z",
+            "last_commit": "2026-08-19T12:06:36Z",
             "owner": "erigontech",
             "repo": "erigon",
-            "stars": 3580
+            "stars": 3581
           }
         },
         {
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131824549,
             "language": "Python",
             "last_commit": "2026-01-25T08:00:12Z",
             "owner": "blockchain-etl",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 168141555,
             "language": "TypeScript",
             "last_commit": "2026-07-06T06:34:50Z",
             "owner": "naddison36",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 242624559,
             "language": "TypeScript",
             "last_commit": "2026-03-08T23:48:27Z",
             "owner": "naddison36",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 471168057,
             "language": "Python",
             "last_commit": "2025-12-04T20:39:02Z",
             "owner": "ApeWorX",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 454585714,
             "language": null,
             "last_commit": "2024-11-09T11:54:38Z",
             "owner": "cipher387",
@@ -108,18 +115,934 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 344845081,
             "language": "Python",
             "last_commit": "2024-12-28T15:03:28Z",
             "owner": "INTERPOL-Innovation-Centre",
             "repo": "GraphSense-Maltego-transform",
             "stars": 43
           }
+        },
+        {
+          "node_type": "item",
+          "title": "Manim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32689863,
+            "language": "Python",
+            "last_commit": "2026-08-18T21:03:49Z",
+            "owner": "3b1b",
+            "repo": "manim",
+            "stars": 91691
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orbit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 140445860,
+            "language": "Python",
+            "last_commit": "2022-07-15T09:47:59Z",
+            "owner": "s0md3v",
+            "repo": "Orbit",
+            "stars": 617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Full label data dump of etherscan in JSON/CSV",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 518915712,
+            "language": "Python",
+            "last_commit": "2023-10-01T18:22:35Z",
+            "owner": "brianleect",
+            "repo": "etherscan-labels",
+            "stars": 287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Etherscan phish-hack.csv Labels",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 518915712,
+            "language": "Python",
+            "last_commit": "2023-10-01T18:22:35Z",
+            "owner": "brianleect",
+            "repo": "etherscan-labels",
+            "stars": 287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gas Reporting",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 340917156,
+            "language": "JavaScript",
+            "last_commit": "2025-08-17T10:55:07Z",
+            "owner": "sambacha",
+            "repo": "gas-reporting",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arronax",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 112691717,
+            "language": "TypeScript",
+            "last_commit": "2023-01-07T03:58:26Z",
+            "owner": "Cryptonomic",
+            "repo": "Arronax",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DarkBTCGraph",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 362847009,
+            "language": "Python",
+            "last_commit": "2021-11-18T23:47:03Z",
+            "owner": "netoeuler",
+            "repo": "darkbitcoingraph",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "web3cat",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 534222360,
+            "language": "Python",
+            "last_commit": "2023-03-31T20:32:17Z",
+            "owner": "monoand6",
+            "repo": "web3cat",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Code2pdf",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 611631611,
+            "language": null,
+            "last_commit": "2023-04-13T07:48:44Z",
+            "owner": "SheldonHolmgren",
+            "repo": "code2pdf",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Public APIs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 54346799,
+            "language": "Python",
+            "last_commit": "2026-08-18T19:20:39Z",
+            "owner": "public-apis",
+            "repo": "public-apis",
+            "stars": 465360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sherlock",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 162998479,
+            "language": "Python",
+            "last_commit": "2026-08-19T05:34:57Z",
+            "owner": "sherlock-project",
+            "repo": "sherlock",
+            "stars": 89798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gitleaks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 119190187,
+            "language": "Go",
+            "last_commit": "2026-08-19T04:15:06Z",
+            "owner": "gitleaks",
+            "repo": "gitleaks",
+            "stars": 28822
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI code translator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 621621548,
+            "language": "TypeScript",
+            "last_commit": "2023-12-21T00:19:08Z",
+            "owner": "mckaywrigley",
+            "repo": "ai-code-translator",
+            "stars": 4170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "monorepo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 450188582,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-21T19:36:01Z",
+            "owner": "mito-ds",
+            "repo": "mito",
+            "stars": 2647
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Heimdall-rs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 499880203,
+            "language": "Rust",
+            "last_commit": "2026-08-16T00:09:09Z",
+            "owner": "Jon-Becker",
+            "repo": "heimdall-rs",
+            "stars": 1600
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "btcrecover",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 18647956,
+            "language": "Python",
+            "last_commit": "2024-08-02T04:13:10Z",
+            "owner": "gurnec",
+            "repo": "btcrecover",
+            "stars": 1579
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Writehat",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 317320893,
+            "language": "Python",
+            "last_commit": "2026-04-01T19:54:30Z",
+            "owner": "blacklanternsecurity",
+            "repo": "writehat",
+            "stars": 1511
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BTC List",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 36278089,
+            "language": null,
+            "last_commit": "2026-08-12T15:11:07Z",
+            "owner": "igorbarinov",
+            "repo": "awesome-bitcoin",
+            "stars": 1351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Surya",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 129717489,
+            "language": "JavaScript",
+            "last_commit": "2025-06-26T15:50:00Z",
+            "owner": "ConsenSysDiligence",
+            "repo": "surya",
+            "stars": 1172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "whatsABI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 539758266,
+            "language": "TypeScript",
+            "last_commit": "2026-08-18T12:50:55Z",
+            "owner": "shazow",
+            "repo": "whatsabi",
+            "stars": 1160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ApeWorX/ape: Python",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 326840499,
+            "language": "Python",
+            "last_commit": "2026-07-13T13:08:03Z",
+            "owner": "ApeWorX",
+            "repo": "ape",
+            "stars": 1053
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BitCrack",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 120692793,
+            "language": "C++",
+            "last_commit": "2024-03-17T13:25:59Z",
+            "owner": "brichard19",
+            "repo": "BitCrack",
+            "stars": 1043
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Telegram OSINT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 389592303,
+            "language": "Python",
+            "last_commit": "2026-07-29T10:06:19Z",
+            "owner": "drego85",
+            "repo": "tosint",
+            "stars": 844
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSleak",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 620805734,
+            "language": "Go",
+            "last_commit": "2025-09-25T16:36:58Z",
+            "owner": "byt3hx",
+            "repo": "jsleak",
+            "stars": 594
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nft analyst starter pack",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 456686191,
+            "language": "Python",
+            "last_commit": "2024-02-03T15:23:00Z",
+            "owner": "a16z",
+            "repo": "nft-analyst-starter-pack",
+            "stars": 460
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EVMole",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 723294223,
+            "language": "Rust",
+            "last_commit": "2026-08-15T11:03:46Z",
+            "owner": "cdump",
+            "repo": "evmole",
+            "stars": 458
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EVM Tools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 62464598,
+            "language": "Go",
+            "last_commit": "2021-06-26T14:54:30Z",
+            "owner": "CoinCulture",
+            "repo": "evm-tools",
+            "stars": 447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Web3, Crypto, Metaverse and NFT resources for OSINT investigations",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 575629932,
+            "language": null,
+            "last_commit": "2025-03-25T15:14:47Z",
+            "owner": "aaarghhh",
+            "repo": "awesome_osint_blockchain_analysis",
+            "stars": 370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "abi guesser",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 573492959,
+            "language": "TypeScript",
+            "last_commit": "2023-02-13T10:28:35Z",
+            "owner": "openchainxyz",
+            "repo": "abi-guesser",
+            "stars": 286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Twitter Social Graph",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 470891014,
+            "language": "C#",
+            "last_commit": "2022-05-15T21:49:58Z",
+            "owner": "Nican",
+            "repo": "Furland",
+            "stars": 265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "evm-cfg",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 594964061,
+            "language": "Rust",
+            "last_commit": "2025-02-10T16:30:50Z",
+            "owner": "plotchy",
+            "repo": "evm-cfg",
+            "stars": 191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A VSCode extension for inspecting solidity smartcontracts using Forge",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 549795730,
+            "language": "JavaScript",
+            "last_commit": "2025-07-28T19:59:40Z",
+            "owner": "PraneshASP",
+            "repo": "vscode-solidity-inspector",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vscode Solidity Inspector",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 549795730,
+            "language": "JavaScript",
+            "last_commit": "2025-07-28T19:59:40Z",
+            "owner": "PraneshASP",
+            "repo": "vscode-solidity-inspector",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EVMc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 562417753,
+            "language": "TypeScript",
+            "last_commit": "2025-04-05T14:41:12Z",
+            "owner": "joshstevens19",
+            "repo": "evmc",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dETH Node",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 229402070,
+            "language": "TypeScript",
+            "last_commit": "2023-01-24T01:03:02Z",
+            "owner": "dethcrypto",
+            "repo": "deth",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Draw EVM contract byte code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 477732410,
+            "language": "Nim",
+            "last_commit": "2022-04-05T18:19:00Z",
+            "owner": "DanielVF",
+            "repo": "evm-contract-draw",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eth-explorers-extension",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 443581026,
+            "language": "JavaScript",
+            "last_commit": "2024-09-23T08:24:32Z",
+            "owner": "apoorvlathey",
+            "repo": "eth-explorers-extension",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "abi-lity",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 566477100,
+            "language": "TypeScript",
+            "last_commit": "2026-03-03T23:34:06Z",
+            "owner": "d1ll0n",
+            "repo": "abi-lity",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "defillama-extension",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 534448769,
+            "language": "TypeScript",
+            "last_commit": "2026-01-02T11:32:43Z",
+            "owner": "DefiLlama",
+            "repo": "defillama-extension",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pdfcrack",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 392280973,
+            "language": "Python",
+            "last_commit": "2023-08-15T11:53:19Z",
+            "owner": "machine1337",
+            "repo": "pdfcrack",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RolodETH Ethereum tag system",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 563612987,
+            "language": "JavaScript",
+            "last_commit": "2023-01-20T22:55:09Z",
+            "owner": "verynifty",
+            "repo": "RolodETH",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ramen EVM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 589462399,
+            "language": "Go",
+            "last_commit": "2023-03-05T00:08:33Z",
+            "owner": "dyng",
+            "repo": "eth-ramen",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smart Contract Hash Matcher",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 445555680,
+            "language": "Solidity",
+            "last_commit": "2023-03-20T16:09:07Z",
+            "owner": "lpinilla",
+            "repo": "Smart-Contract-Hash-Matcher",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TON blockchain investigation tool",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 698422275,
+            "language": "Python",
+            "last_commit": "2024-07-29T16:16:18Z",
+            "owner": "aaarghhh",
+            "repo": "a_TON_of_privacy",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TON + Maltego",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 597046867,
+            "language": "Python",
+            "last_commit": "2024-01-01T23:30:02Z",
+            "owner": "aaarghhh",
+            "repo": "atop_maltego",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cancel Ethereum Transaction",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 283031690,
+            "language": "Vue",
+            "last_commit": "2023-02-04T01:26:32Z",
+            "owner": "mds1",
+            "repo": "Cancel-Ethereum-Transactions",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlockTracker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 389657495,
+            "language": "Python",
+            "last_commit": "2021-08-11T07:41:49Z",
+            "owner": "thisiskeanyvy",
+            "repo": "blocktracker",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bitcoin Prefixes Address List",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 222467347,
+            "language": null,
+            "last_commit": "2024-01-03T14:07:10Z",
+            "owner": "citizen010",
+            "repo": "bitcoin-prefixes-address-list",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Erigon + Otterscan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 381934221,
+            "language": "Go",
+            "last_commit": "2024-05-11T09:00:26Z",
+            "owner": "wmitsuda",
+            "repo": "erigon",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Forta Contract Simil",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 614944262,
+            "language": "Python",
+            "last_commit": "2023-06-30T02:50:59Z",
+            "owner": "Soptq",
+            "repo": "forta-contract-simil",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CLI tool to get the implementation address from a proxy contract",
+          "description": "& NPMjs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625487248,
+            "language": "JavaScript",
+            "last_commit": "2023-04-09T09:51:53Z",
+            "owner": "partylikeits1983",
+            "repo": "proxy_implementation",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BTC Wallet Recovery Tool",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 357664268,
+            "language": "JavaScript",
+            "last_commit": "2021-08-05T20:55:29Z",
+            "owner": "gabcvit",
+            "repo": "find-my-btc-wallet",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Uniscan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 396641361,
+            "language": "Ruby",
+            "last_commit": "2022-01-27T09:11:50Z",
+            "owner": "uni-arts-chain",
+            "repo": "uniscan",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hacken Oracle",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 325571223,
+            "language": "TypeScript",
+            "last_commit": "2020-12-31T11:48:52Z",
+            "owner": "hknio",
+            "repo": "hacken-oracle",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ethcmd",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 194563442,
+            "language": "JavaScript",
+            "last_commit": "2022-09-19T09:10:09Z",
+            "owner": "bit-warrior",
+            "repo": "ethcmd",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "forta ENS spoofing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 530782651,
+            "language": "TypeScript",
+            "last_commit": "2023-05-05T10:35:30Z",
+            "owner": "kovart",
+            "repo": "forta-ens-spoofing",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eth-txns.vercel.app",
+          "description": "& Deployed Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 484356977,
+            "language": "JavaScript",
+            "last_commit": "2022-05-09T10:37:05Z",
+            "owner": "shreyvijayvargiya",
+            "repo": "EthTxns",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ETH On-chain price",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 509057704,
+            "language": "JavaScript",
+            "last_commit": "2022-07-05T12:10:14Z",
+            "owner": "brianleect",
+            "repo": "eth-onchain-price",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NFT Mind Analysis Tool",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 583358968,
+            "language": "Python",
+            "last_commit": "2023-01-02T12:25:18Z",
+            "owner": "brianleect",
+            "repo": "nft-manual-mint-analysis",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eth-onchain-price",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 509057704,
+            "language": "JavaScript",
+            "last_commit": "2022-07-05T12:10:14Z",
+            "owner": "brianleect",
+            "repo": "eth-onchain-price",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nft-manual-mint-analysis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 583358968,
+            "language": "Python",
+            "last_commit": "2023-01-02T12:25:18Z",
+            "owner": "brianleect",
+            "repo": "nft-manual-mint-analysis",
+            "stars": 0
+          }
         }
       ],
       "title": "I - Tools List"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -128,6 +1051,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62893187,
             "language": null,
             "last_commit": "2026-08-18T07:55:17Z",
             "owner": "bkrem",
@@ -142,6 +1066,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 262434885,
             "language": "Python",
             "last_commit": "2024-07-13T06:27:10Z",
             "owner": "AzizKpln",
@@ -156,6 +1081,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 562896216,
             "language": "Solidity",
             "last_commit": "2026-02-20T18:11:15Z",
             "owner": "coinspect",
@@ -170,6 +1096,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153064547,
             "language": null,
             "last_commit": "2026-01-14T20:11:22Z",
             "owner": "ong",
@@ -184,6 +1111,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 594487852,
             "language": "HTML",
             "last_commit": "2026-08-01T11:57:14Z",
             "owner": "jiep",
@@ -198,6 +1126,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 462391939,
             "language": "Shell",
             "last_commit": "2025-10-22T21:41:51Z",
             "owner": "cypherpunk-symposium",
@@ -212,6 +1141,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 421191660,
             "language": "HTML",
             "last_commit": "2024-08-01T23:54:57Z",
             "owner": "OhShINT",
@@ -226,6 +1156,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 421191660,
             "language": "HTML",
             "last_commit": "2024-08-01T23:54:57Z",
             "owner": "OhShINT",
@@ -240,11 +1171,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 584471036,
             "language": "JavaScript",
             "last_commit": "2026-04-28T18:34:43Z",
             "owner": "dev-lu",
             "repo": "osint_toolkit",
-            "stars": 935
+            "stars": 934
           }
         },
         {
@@ -254,6 +1186,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 473405524,
             "language": null,
             "last_commit": "2024-12-13T08:22:39Z",
             "owner": "sannykim",
@@ -268,6 +1201,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 554260504,
             "language": null,
             "last_commit": "2026-06-10T08:51:06Z",
             "owner": "shanzson",
@@ -282,6 +1216,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 377417790,
             "language": null,
             "last_commit": "2024-08-08T15:18:06Z",
             "owner": "husseinmuhaisen",
@@ -296,6 +1231,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162764963,
             "language": null,
             "last_commit": "2025-03-25T21:16:57Z",
             "owner": "denisnazarov",
@@ -310,6 +1246,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 536081843,
             "language": "Python",
             "last_commit": "2024-06-25T10:20:17Z",
             "owner": "pessimistic-io",
@@ -324,6 +1261,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 575629932,
             "language": null,
             "last_commit": "2025-03-25T15:14:47Z",
             "owner": "aaarghhh",
@@ -338,6 +1276,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 576056104,
             "language": "Solidity",
             "last_commit": "2025-12-25T16:01:21Z",
             "owner": "minaminao",
@@ -352,6 +1291,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 518915712,
             "language": "Python",
             "last_commit": "2023-10-01T18:22:35Z",
             "owner": "brianleect",
@@ -366,6 +1306,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 540047972,
             "language": null,
             "last_commit": "2024-12-04T06:58:14Z",
             "owner": "Quillhash",
@@ -380,6 +1321,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 186519022,
             "language": "Jupyter Notebook",
             "last_commit": "2023-07-29T13:34:51Z",
             "owner": "sambacha",
@@ -394,6 +1336,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 559674762,
             "language": null,
             "last_commit": "2025-10-02T09:52:44Z",
             "owner": "superphiz",
@@ -408,6 +1351,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 187817323,
             "language": "TypeScript",
             "last_commit": "2024-05-10T22:56:40Z",
             "owner": "Mrtenz",
@@ -422,6 +1366,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 424978034,
             "language": null,
             "last_commit": "2022-06-06T17:08:13Z",
             "owner": "kareniel",
@@ -436,6 +1381,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 355235688,
             "language": null,
             "last_commit": "2022-05-19T01:02:10Z",
             "owner": "defi-defense-dao",
@@ -450,6 +1396,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 531604797,
             "language": "Python",
             "last_commit": "2026-08-04T10:22:48Z",
             "owner": "duneanalytics",
@@ -464,6 +1411,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 285947757,
             "language": null,
             "last_commit": "2023-11-20T16:39:46Z",
             "owner": "gweicz",
@@ -478,6 +1426,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 454945333,
             "language": null,
             "last_commit": "2022-11-17T12:48:15Z",
             "owner": "dgeorgiev06",
@@ -492,6 +1441,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 594414507,
             "language": null,
             "last_commit": "2023-04-17T19:09:32Z",
             "owner": "CScorza",
@@ -506,6 +1456,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 419290130,
             "language": null,
             "last_commit": "2024-12-19T20:00:21Z",
             "owner": "INTERPOL-Innovation-Centre",
@@ -520,6 +1471,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104166966,
             "language": null,
             "last_commit": "2024-04-15T12:42:14Z",
             "owner": "xpfio",
@@ -534,6 +1486,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120388160,
             "language": "JavaScript",
             "last_commit": "2022-04-22T16:16:35Z",
             "owner": "rautio",
@@ -548,26 +1501,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 602521220,
             "language": "Solidity",
             "last_commit": "2023-02-22T15:31:19Z",
             "owner": "zeayal",
             "repo": "xiao-po-zhan",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Ethereum Security Tools List",
-          "description": null,
-          "children": []
         }
       ],
       "title": "IV - Knowledge Hub"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T23:38:49.777Z",
+    "last_updated": "2026-08-19T12:12:05.723Z",
     "original_repository": "OffcierCia/On-Chain-Investigations-Tools-List",
+    "original_repository_id": 568727854,
     "original_repository_sha": "69769cbdece41e34c72a7b6573b67f583f7e1869",
     "enhanced_repository": "enhansome/enhansome-On-Chain-Investigations-Tools-List",
     "enhanced_repository_description": null,

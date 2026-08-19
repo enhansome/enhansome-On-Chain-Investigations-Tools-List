@@ -30,8 +30,8 @@
 
 > Easy [Quick Start Into On-Chain Investigations](https://officercia.medium.com/awesome-on-chain-investigations-handbook-2-0-3acc7153c421)!
 
-* [SpiderFoot](https://github.com/smicallef/spiderfoot) ⭐ 21,178 | 🐛 305 | 🌐 Python | 📅 2026-04-13
-* [Erigon Archive Nodes](https://github.com/ledgerwatch/erigon) ⭐ 3,580 | 🐛 652 | 🌐 Go | 📅 2026-08-18
+* [SpiderFoot](https://github.com/smicallef/spiderfoot) ⭐ 21,192 | 🐛 305 | 🌐 Python | 📅 2026-04-13
+* [Erigon Archive Nodes](https://github.com/ledgerwatch/erigon) ⭐ 3,581 | 🐛 662 | 🌐 Go | 📅 2026-08-19
 * [blockchain-etl](https://github.com/blockchain-etl/ethereum-etl) ⭐ 3,128 | 🐛 153 | 🌐 Python | 📅 2026-01-25
 * [sol2uml](https://github.com/naddison36/sol2uml) ⭐ 1,315 | 🐛 16 | 🌐 TypeScript | 📅 2026-07-06
 * [tx2uml](https://github.com/naddison36/tx2uml) ⭐ 475 | 🐛 2 | 🌐 TypeScript | 📅 2026-03-08 & [Tx2uml Example](https://twitter.com/naddison/status/1633959965990977537) & [tx2uml v1.1.19](https://twitter.com/naddison/status/1640559616890392576)
@@ -107,7 +107,7 @@
 
 **Visualization:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 91,624 | 🐛 486 | 🌐 Python | 📅 2026-08-18
+* [Manim](https://github.com/3b1b/manim) ⭐ 91,691 | 🐛 487 | 🌐 Python | 📅 2026-08-18
 * [Orbit](https://github.com/s0md3v/Orbit) ⭐ 617 | 🐛 9 | 🌐 Python | 📅 2022-07-15
 * [Full label data dump of etherscan in JSON/CSV](https://github.com/brianleect/etherscan-labels) ⭐ 287 | 🐛 16 | 🌐 Python | 📅 2023-10-01
 * [Etherscan phish-hack.csv Labels](https://github.com/brianleect/etherscan-labels/blob/main/data/phish-hack.csv) ⭐ 287 | 🐛 16 | 🌐 Python | 📅 2023-10-01
@@ -200,16 +200,16 @@
 
 **Specific:**
 
-* [Public APIs](https://github.com/public-apis/public-apis#cryptocurrency) ⭐ 464,505 | 🐛 1,683 | 🌐 Python | 📅 2026-08-18
-* [Sherlock](https://github.com/sherlock-project/sherlock) ⭐ 89,765 | 🐛 329 | 🌐 Python | 📅 2026-08-18
-* [Gitleaks](https://github.com/gitleaks/gitleaks) ⭐ 28,808 | 🐛 460 | 🌐 Go | 📅 2026-07-29
+* [Public APIs](https://github.com/public-apis/public-apis#cryptocurrency) ⭐ 465,360 | 🐛 1,704 | 🌐 Python | 📅 2026-08-18
+* [Sherlock](https://github.com/sherlock-project/sherlock) ⭐ 89,798 | 🐛 329 | 🌐 Python | 📅 2026-08-19
+* [Gitleaks](https://github.com/gitleaks/gitleaks) ⭐ 28,822 | 🐛 460 | 🌐 Go | 📅 2026-08-19
 * [AI code translator](https://github.com/mckaywrigley/ai-code-translator) ⭐ 4,170 | 🐛 24 | 🌐 TypeScript | 📅 2023-12-21
 * [monorepo](https://github.com/mito-ds/monorepo) ⭐ 2,647 | 🐛 293 | 🌐 Jupyter Notebook | 📅 2026-07-21
 * [Heimdall-rs](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,600 | 🐛 20 | 🌐 Rust | 📅 2026-08-16
 * [btcrecover](https://github.com/gurnec/btcrecover) ⭐ 1,579 | 🐛 383 | 🌐 Python | 📅 2024-08-02
 * [Writehat](https://github.com/blacklanternsecurity/writehat) ⭐ 1,511 | 🐛 40 | 🌐 Python | 📅 2026-04-01
-* [BTC List](https://github.com/igorbarinov/awesome-bitcoin) ⭐ 1,350 | 🐛 10 | 📅 2026-08-12
-* [Surya](https://github.com/ConsenSys/surya) ⭐ 1,173 | 🐛 8 | 🌐 JavaScript | 📅 2025-06-26
+* [BTC List](https://github.com/igorbarinov/awesome-bitcoin) ⭐ 1,351 | 🐛 10 | 📅 2026-08-12
+* [Surya](https://github.com/ConsenSys/surya) ⭐ 1,172 | 🐛 8 | 🌐 JavaScript | 📅 2025-06-26
 * [whatsABI](https://github.com/shazow/whatsabi) ⭐ 1,160 | 🐛 40 | 🌐 TypeScript | 📅 2026-08-18
 * [ApeWorX/ape: Python](https://github.com/ApeWorX/ape) ⭐ 1,053 | 🐛 194 | 🌐 Python | 📅 2026-07-13
 * [BitCrack](https://github.com/brichard19/BitCrack) ⭐ 1,043 | 🐛 305 | 🌐 C++ | 📅 2024-03-17
@@ -504,7 +504,7 @@
 * [MEV Toolkit](https://github.com/go-outside-labs/mev-toolkit) ⚠️ Archived
 * [OSINT Tools 2022](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Lists_of_OSINT_Web_Resources/1-Complete-List-of-OSINT-Web-Resources.md) ⭐ 961 | 🐛 11 | 🌐 HTML | 📅 2024-08-01
 * [OSINT Tools 2023](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Lists_of_OSINT_Web_Resources/2023-Recently-Added-Resources_ohshint.md) ⭐ 961 | 🐛 11 | 🌐 HTML | 📅 2024-08-01
-* [OSINT Toolkit](https://github.com/dev-lu/osint_toolkit) ⭐ 935 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-28
+* [OSINT Toolkit](https://github.com/dev-lu/osint_toolkit) ⭐ 934 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-28
 * [Solana Security](https://github.com/0xsanny/solsec) ⭐ 887 | 🐛 1 | 📅 2024-12-13
 * [Smart Contract Auditor Tools and Techniques](https://github.com/shanzson/Smart-Contract-Auditor-Tools-and-Techniques) ⭐ 809 | 🐛 5 | 📅 2026-06-10
 * [Discord OSINT](https://github.com/AtonceInventions/DiscordOSINT) ⭐ 587 | 🐛 0 | 📅 2024-08-08
@@ -814,4 +814,4 @@ Thank you! 🙏
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
