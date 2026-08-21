@@ -15,7 +15,7 @@
             "last_commit": "2026-04-13T19:43:06Z",
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 21263
+            "stars": 21325
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 188836864,
             "language": "Go",
-            "last_commit": "2026-08-20T21:43:03Z",
+            "last_commit": "2026-08-21T23:18:22Z",
             "owner": "erigontech",
             "repo": "erigon",
             "stars": 3581
@@ -60,7 +60,7 @@
             "last_commit": "2026-07-06T06:34:50Z",
             "owner": "naddison36",
             "repo": "sol2uml",
-            "stars": 1315
+            "stars": 1314
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-08-18T21:03:49Z",
             "owner": "3b1b",
             "repo": "manim",
-            "stars": 91776
+            "stars": 91842
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2026-08-19T21:44:19Z",
             "owner": "public-apis",
             "repo": "public-apis",
-            "stars": 467180
+            "stars": 467973
           }
         },
         {
@@ -282,10 +282,10 @@
             "archived": false,
             "id": 162998479,
             "language": "Python",
-            "last_commit": "2026-08-20T05:35:33Z",
+            "last_commit": "2026-08-21T05:36:54Z",
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 89892
+            "stars": 89944
           }
         },
         {
@@ -300,7 +300,7 @@
             "last_commit": "2026-08-19T04:15:06Z",
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 28863
+            "stars": 28891
           }
         },
         {
@@ -330,7 +330,7 @@
             "last_commit": "2026-07-21T19:36:01Z",
             "owner": "mito-ds",
             "repo": "mito",
-            "stars": 2647
+            "stars": 2646
           }
         },
         {
@@ -345,7 +345,7 @@
             "last_commit": "2026-08-16T00:09:09Z",
             "owner": "Jon-Becker",
             "repo": "heimdall-rs",
-            "stars": 1600
+            "stars": 1599
           }
         },
         {
@@ -432,7 +432,7 @@
             "archived": false,
             "id": 326840499,
             "language": "Python",
-            "last_commit": "2026-07-13T13:08:03Z",
+            "last_commit": "2026-08-21T22:20:25Z",
             "owner": "ApeWorX",
             "repo": "ape",
             "stars": 1053
@@ -450,7 +450,7 @@
             "last_commit": "2024-03-17T13:25:59Z",
             "owner": "brichard19",
             "repo": "BitCrack",
-            "stars": 1043
+            "stars": 1042
           }
         },
         {
@@ -465,7 +465,7 @@
             "last_commit": "2026-07-29T10:06:19Z",
             "owner": "drego85",
             "repo": "tosint",
-            "stars": 844
+            "stars": 846
           }
         },
         {
@@ -1056,7 +1056,7 @@
             "last_commit": "2026-08-18T07:55:17Z",
             "owner": "bkrem",
             "repo": "awesome-solidity",
-            "stars": 7045
+            "stars": 7046
           }
         },
         {
@@ -1071,7 +1071,7 @@
             "last_commit": "2024-07-13T06:27:10Z",
             "owner": "AzizKpln",
             "repo": "Moriarty-Project",
-            "stars": 2072
+            "stars": 2071
           }
         },
         {
@@ -1086,7 +1086,7 @@
             "last_commit": "2026-02-20T18:11:15Z",
             "owner": "coinspect",
             "repo": "learn-evm-attacks",
-            "stars": 1802
+            "stars": 1801
           }
         },
         {
@@ -1514,7 +1514,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T23:42:19.505Z",
+    "last_updated": "2026-08-21T23:41:36.076Z",
     "original_repository": "OffcierCia/On-Chain-Investigations-Tools-List",
     "original_repository_id": 568727854,
     "original_repository_sha": "69769cbdece41e34c72a7b6573b67f583f7e1869",
