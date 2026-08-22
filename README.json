@@ -15,7 +15,7 @@
             "last_commit": "2026-04-13T19:43:06Z",
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 21325
+            "stars": 21355
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 188836864,
             "language": "Go",
-            "last_commit": "2026-08-21T23:18:22Z",
+            "last_commit": "2026-08-22T21:48:09Z",
             "owner": "erigontech",
             "repo": "erigon",
-            "stars": 3581
+            "stars": 3579
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-07-06T06:34:50Z",
             "owner": "naddison36",
             "repo": "sol2uml",
-            "stars": 1314
+            "stars": 1315
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-08-18T21:03:49Z",
             "owner": "3b1b",
             "repo": "manim",
-            "stars": 91842
+            "stars": 91910
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2026-08-19T21:44:19Z",
             "owner": "public-apis",
             "repo": "public-apis",
-            "stars": 467973
+            "stars": 468615
           }
         },
         {
@@ -282,10 +282,10 @@
             "archived": false,
             "id": 162998479,
             "language": "Python",
-            "last_commit": "2026-08-21T05:36:54Z",
+            "last_commit": "2026-08-22T05:11:58Z",
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 89944
+            "stars": 89980
           }
         },
         {
@@ -300,7 +300,7 @@
             "last_commit": "2026-08-19T04:15:06Z",
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 28891
+            "stars": 28904
           }
         },
         {
@@ -315,7 +315,7 @@
             "last_commit": "2023-12-21T00:19:08Z",
             "owner": "mckaywrigley",
             "repo": "ai-code-translator",
-            "stars": 4170
+            "stars": 4169
           }
         },
         {
@@ -330,7 +330,7 @@
             "last_commit": "2026-07-21T19:36:01Z",
             "owner": "mito-ds",
             "repo": "mito",
-            "stars": 2646
+            "stars": 2645
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2024-08-02T04:13:10Z",
             "owner": "gurnec",
             "repo": "btcrecover",
-            "stars": 1580
+            "stars": 1581
           }
         },
         {
@@ -432,7 +432,7 @@
             "archived": false,
             "id": 326840499,
             "language": "Python",
-            "last_commit": "2026-08-21T22:20:25Z",
+            "last_commit": "2026-08-22T12:28:29Z",
             "owner": "ApeWorX",
             "repo": "ape",
             "stars": 1053
@@ -495,7 +495,7 @@
             "last_commit": "2026-08-15T11:03:46Z",
             "owner": "cdump",
             "repo": "evmole",
-            "stars": 460
+            "stars": 461
           }
         },
         {
@@ -1146,7 +1146,7 @@
             "last_commit": "2024-08-01T23:54:57Z",
             "owner": "OhShINT",
             "repo": "ohshint.gitbook.io",
-            "stars": 962
+            "stars": 963
           }
         },
         {
@@ -1161,7 +1161,7 @@
             "last_commit": "2024-08-01T23:54:57Z",
             "owner": "OhShINT",
             "repo": "ohshint.gitbook.io",
-            "stars": 962
+            "stars": 963
           }
         },
         {
@@ -1514,7 +1514,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T23:41:36.076Z",
+    "last_updated": "2026-08-22T23:36:36.744Z",
     "original_repository": "OffcierCia/On-Chain-Investigations-Tools-List",
     "original_repository_id": 568727854,
     "original_repository_sha": "69769cbdece41e34c72a7b6573b67f583f7e1869",
