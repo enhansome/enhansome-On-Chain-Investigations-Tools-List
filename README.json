@@ -1,6 +1,102 @@
 {
   "items": [
     {
+      "description": "In this article I will tell you exactly how I investigate crypto hacks and security incidents, and describe methodology!",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tools List",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 568727854,
+            "language": null,
+            "last_commit": "2026-06-03T14:21:13Z",
+            "owner": "OffcierCia",
+            "repo": "On-Chain-Investigations-Tools-List",
+            "stars": 1927
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VR & 3D Tools List",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 568727854,
+            "language": null,
+            "last_commit": "2026-06-03T14:21:13Z",
+            "owner": "OffcierCia",
+            "repo": "On-Chain-Investigations-Tools-List",
+            "stars": 1927
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Monero",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 568727854,
+            "language": null,
+            "last_commit": "2026-06-03T14:21:13Z",
+            "owner": "OffcierCia",
+            "repo": "On-Chain-Investigations-Tools-List",
+            "stars": 1927
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Knowledge Hub",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 568727854,
+            "language": null,
+            "last_commit": "2026-06-03T14:21:13Z",
+            "owner": "OffcierCia",
+            "repo": "On-Chain-Investigations-Tools-List",
+            "stars": 1927
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Follow List",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 568727854,
+            "language": null,
+            "last_commit": "2026-06-03T14:21:13Z",
+            "owner": "OffcierCia",
+            "repo": "On-Chain-Investigations-Tools-List",
+            "stars": 1927
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Support Project",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 568727854,
+            "language": null,
+            "last_commit": "2026-06-03T14:21:13Z",
+            "owner": "OffcierCia",
+            "repo": "On-Chain-Investigations-Tools-List",
+            "stars": 1927
+          }
+        }
+      ],
+      "title": "Overview"
+    },
+    {
       "description": "Data-Analysis:\nEasy Quick Start Into On-Chain Investigations!\nVisualization:\nClusterizers:\nSpecific:\nHacks DBs",
       "items": [
         {
@@ -15,7 +111,7 @@
             "last_commit": "2026-04-13T19:43:06Z",
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 21374
+            "stars": 21389
           }
         },
         {
@@ -27,7 +123,7 @@
             "archived": false,
             "id": 188836864,
             "language": "Go",
-            "last_commit": "2026-08-23T18:29:10Z",
+            "last_commit": "2026-08-24T14:08:32Z",
             "owner": "erigontech",
             "repo": "erigon",
             "stars": 3579
@@ -135,7 +231,7 @@
             "last_commit": "2026-08-18T21:03:49Z",
             "owner": "3b1b",
             "repo": "manim",
-            "stars": 91958
+            "stars": 91993
           }
         },
         {
@@ -260,6 +356,21 @@
         },
         {
           "node_type": "item",
+          "title": "metadock",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 575252999,
+            "language": "TypeScript",
+            "last_commit": "2026-06-18T06:48:40Z",
+            "owner": "blocksecteam",
+            "repo": "metasuites",
+            "stars": 267
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Public APIs",
           "description": null,
           "children": [],
@@ -270,7 +381,7 @@
             "last_commit": "2026-08-19T21:44:19Z",
             "owner": "public-apis",
             "repo": "public-apis",
-            "stars": 469191
+            "stars": 469631
           }
         },
         {
@@ -282,10 +393,10 @@
             "archived": false,
             "id": 162998479,
             "language": "Python",
-            "last_commit": "2026-08-23T05:13:14Z",
+            "last_commit": "2026-08-24T05:19:36Z",
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 90080
+            "stars": 90155
           }
         },
         {
@@ -300,7 +411,7 @@
             "last_commit": "2026-08-19T04:15:06Z",
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 28924
+            "stars": 28934
           }
         },
         {
@@ -375,7 +486,7 @@
             "last_commit": "2026-04-01T19:54:30Z",
             "owner": "blacklanternsecurity",
             "repo": "writehat",
-            "stars": 1512
+            "stars": 1513
           }
         },
         {
@@ -465,7 +576,7 @@
             "last_commit": "2026-07-29T10:06:19Z",
             "owner": "drego85",
             "repo": "tosint",
-            "stars": 846
+            "stars": 847
           }
         },
         {
@@ -1056,7 +1167,7 @@
             "last_commit": "2026-08-18T07:55:17Z",
             "owner": "bkrem",
             "repo": "awesome-solidity",
-            "stars": 7048
+            "stars": 7046
           }
         },
         {
@@ -1116,7 +1227,7 @@
             "last_commit": "2026-08-01T11:57:14Z",
             "owner": "jiep",
             "repo": "offensive-ai-compilation",
-            "stars": 1418
+            "stars": 1420
           }
         },
         {
@@ -1386,7 +1497,7 @@
             "last_commit": "2022-05-19T01:02:10Z",
             "owner": "defi-defense-dao",
             "repo": "defi-risk-tools-list",
-            "stars": 174
+            "stars": 173
           }
         },
         {
@@ -1514,7 +1625,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:37:43.286Z",
+    "last_updated": "2026-08-24T14:08:55.161Z",
     "original_repository": "OffcierCia/On-Chain-Investigations-Tools-List",
     "original_repository_id": 568727854,
     "original_repository_sha": "69769cbdece41e34c72a7b6573b67f583f7e1869",
