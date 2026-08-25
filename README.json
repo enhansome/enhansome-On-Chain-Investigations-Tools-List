@@ -111,7 +111,7 @@
             "last_commit": "2026-04-13T19:43:06Z",
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 21397
+            "stars": 21401
           }
         },
         {
@@ -123,7 +123,7 @@
             "archived": false,
             "id": 188836864,
             "language": "Go",
-            "last_commit": "2026-08-24T22:29:24Z",
+            "last_commit": "2026-08-25T05:59:03Z",
             "owner": "erigontech",
             "repo": "erigon",
             "stars": 3579
@@ -231,7 +231,7 @@
             "last_commit": "2026-08-18T21:03:49Z",
             "owner": "3b1b",
             "repo": "manim",
-            "stars": 92006
+            "stars": 92014
           }
         },
         {
@@ -381,7 +381,7 @@
             "last_commit": "2026-08-19T21:44:19Z",
             "owner": "public-apis",
             "repo": "public-apis",
-            "stars": 469871
+            "stars": 470008
           }
         },
         {
@@ -393,10 +393,10 @@
             "archived": false,
             "id": 162998479,
             "language": "Python",
-            "last_commit": "2026-08-24T05:19:36Z",
+            "last_commit": "2026-08-25T05:15:58Z",
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 90176
+            "stars": 90200
           }
         },
         {
@@ -411,7 +411,7 @@
             "last_commit": "2026-08-19T04:15:06Z",
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 28939
+            "stars": 28943
           }
         },
         {
@@ -1625,7 +1625,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:38:50.682Z",
+    "last_updated": "2026-08-25T06:01:50.314Z",
     "original_repository": "OffcierCia/On-Chain-Investigations-Tools-List",
     "original_repository_id": 568727854,
     "original_repository_sha": "69769cbdece41e34c72a7b6573b67f583f7e1869",

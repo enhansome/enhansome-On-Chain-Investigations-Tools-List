@@ -30,8 +30,8 @@
 
 > Easy [Quick Start Into On-Chain Investigations](https://officercia.medium.com/awesome-on-chain-investigations-handbook-2-0-3acc7153c421)!
 
-* [SpiderFoot](https://github.com/smicallef/spiderfoot) ⭐ 21,397 | 🐛 310 | 🌐 Python | 📅 2026-04-13
-* [Erigon Archive Nodes](https://github.com/ledgerwatch/erigon) ⭐ 3,579 | 🐛 688 | 🌐 Go | 📅 2026-08-24
+* [SpiderFoot](https://github.com/smicallef/spiderfoot) ⭐ 21,401 | 🐛 310 | 🌐 Python | 📅 2026-04-13
+* [Erigon Archive Nodes](https://github.com/ledgerwatch/erigon) ⭐ 3,579 | 🐛 689 | 🌐 Go | 📅 2026-08-25
 * [blockchain-etl](https://github.com/blockchain-etl/ethereum-etl) ⭐ 3,128 | 🐛 153 | 🌐 Python | 📅 2026-01-25
 * [sol2uml](https://github.com/naddison36/sol2uml) ⭐ 1,315 | 🐛 16 | 🌐 TypeScript | 📅 2026-07-06
 * [tx2uml](https://github.com/naddison36/tx2uml) ⭐ 475 | 🐛 2 | 🌐 TypeScript | 📅 2026-03-08 & [Tx2uml Example](https://twitter.com/naddison/status/1633959965990977537) & [tx2uml v1.1.19](https://twitter.com/naddison/status/1640559616890392576)
@@ -107,7 +107,7 @@
 
 **Visualization:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 92,006 | 🐛 490 | 🌐 Python | 📅 2026-08-18
+* [Manim](https://github.com/3b1b/manim) ⭐ 92,014 | 🐛 490 | 🌐 Python | 📅 2026-08-18
 * [Orbit](https://github.com/s0md3v/Orbit) ⭐ 617 | 🐛 9 | 🌐 Python | 📅 2022-07-15
 * [Full label data dump of etherscan in JSON/CSV](https://github.com/brianleect/etherscan-labels) ⭐ 287 | 🐛 16 | 🌐 Python | 📅 2023-10-01
 * [Etherscan phish-hack.csv Labels](https://github.com/brianleect/etherscan-labels/blob/main/data/phish-hack.csv) ⭐ 287 | 🐛 16 | 🌐 Python | 📅 2023-10-01
@@ -200,9 +200,9 @@
 
 **Specific:**
 
-* [Public APIs](https://github.com/public-apis/public-apis#cryptocurrency) ⭐ 469,871 | 🐛 1,764 | 🌐 Python | 📅 2026-08-19
-* [Sherlock](https://github.com/sherlock-project/sherlock) ⭐ 90,176 | 🐛 333 | 🌐 Python | 📅 2026-08-24
-* [Gitleaks](https://github.com/gitleaks/gitleaks) ⭐ 28,939 | 🐛 460 | 🌐 Go | 📅 2026-08-19
+* [Public APIs](https://github.com/public-apis/public-apis#cryptocurrency) ⭐ 470,008 | 🐛 1,768 | 🌐 Python | 📅 2026-08-19
+* [Sherlock](https://github.com/sherlock-project/sherlock) ⭐ 90,200 | 🐛 333 | 🌐 Python | 📅 2026-08-25
+* [Gitleaks](https://github.com/gitleaks/gitleaks) ⭐ 28,943 | 🐛 460 | 🌐 Go | 📅 2026-08-19
 * [AI code translator](https://github.com/mckaywrigley/ai-code-translator) ⭐ 4,169 | 🐛 24 | 🌐 TypeScript | 📅 2023-12-21
 * [monorepo](https://github.com/mito-ds/monorepo) ⭐ 2,645 | 🐛 293 | 🌐 Jupyter Notebook | 📅 2026-07-21
 * [Heimdall-rs](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,601 | 🐛 20 | 🌐 Rust | 📅 2026-08-24
@@ -814,4 +814,4 @@ Thank you! 🙏
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
