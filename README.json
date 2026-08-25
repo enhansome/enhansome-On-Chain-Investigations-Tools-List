@@ -111,7 +111,7 @@
             "last_commit": "2026-04-13T19:43:06Z",
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 21401
+            "stars": 21420
           }
         },
         {
@@ -123,7 +123,7 @@
             "archived": false,
             "id": 188836864,
             "language": "Go",
-            "last_commit": "2026-08-25T05:59:03Z",
+            "last_commit": "2026-08-25T21:07:40Z",
             "owner": "erigontech",
             "repo": "erigon",
             "stars": 3579
@@ -141,7 +141,7 @@
             "last_commit": "2026-01-25T08:00:12Z",
             "owner": "blockchain-etl",
             "repo": "ethereum-etl",
-            "stars": 3128
+            "stars": 3127
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2026-08-18T21:03:49Z",
             "owner": "3b1b",
             "repo": "manim",
-            "stars": 92014
+            "stars": 92039
           }
         },
         {
@@ -381,7 +381,7 @@
             "last_commit": "2026-08-19T21:44:19Z",
             "owner": "public-apis",
             "repo": "public-apis",
-            "stars": 470008
+            "stars": 470448
           }
         },
         {
@@ -396,7 +396,7 @@
             "last_commit": "2026-08-25T05:15:58Z",
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 90200
+            "stars": 90310
           }
         },
         {
@@ -411,7 +411,7 @@
             "last_commit": "2026-08-19T04:15:06Z",
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 28943
+            "stars": 28958
           }
         },
         {
@@ -453,7 +453,7 @@
             "archived": false,
             "id": 499880203,
             "language": "Rust",
-            "last_commit": "2026-08-24T17:35:38Z",
+            "last_commit": "2026-08-25T16:20:39Z",
             "owner": "Jon-Becker",
             "repo": "heimdall-rs",
             "stars": 1601
@@ -1167,7 +1167,7 @@
             "last_commit": "2026-08-18T07:55:17Z",
             "owner": "bkrem",
             "repo": "awesome-solidity",
-            "stars": 7045
+            "stars": 7043
           }
         },
         {
@@ -1197,7 +1197,7 @@
             "last_commit": "2026-02-20T18:11:15Z",
             "owner": "coinspect",
             "repo": "learn-evm-attacks",
-            "stars": 1801
+            "stars": 1802
           }
         },
         {
@@ -1257,7 +1257,7 @@
             "last_commit": "2024-08-01T23:54:57Z",
             "owner": "OhShINT",
             "repo": "ohshint.gitbook.io",
-            "stars": 963
+            "stars": 964
           }
         },
         {
@@ -1272,7 +1272,7 @@
             "last_commit": "2024-08-01T23:54:57Z",
             "owner": "OhShINT",
             "repo": "ohshint.gitbook.io",
-            "stars": 963
+            "stars": 964
           }
         },
         {
@@ -1332,7 +1332,7 @@
             "last_commit": "2024-08-08T15:18:06Z",
             "owner": "husseinmuhaisen",
             "repo": "DiscordOSINT",
-            "stars": 588
+            "stars": 589
           }
         },
         {
@@ -1625,7 +1625,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:01:50.314Z",
+    "last_updated": "2026-08-25T23:40:28.708Z",
     "original_repository": "OffcierCia/On-Chain-Investigations-Tools-List",
     "original_repository_id": 568727854,
     "original_repository_sha": "69769cbdece41e34c72a7b6573b67f583f7e1869",
