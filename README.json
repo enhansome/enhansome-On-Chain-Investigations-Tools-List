@@ -15,7 +15,7 @@
             "last_commit": "2026-06-03T14:21:13Z",
             "owner": "OffcierCia",
             "repo": "On-Chain-Investigations-Tools-List",
-            "stars": 1928
+            "stars": 1930
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-06-03T14:21:13Z",
             "owner": "OffcierCia",
             "repo": "On-Chain-Investigations-Tools-List",
-            "stars": 1928
+            "stars": 1930
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-06-03T14:21:13Z",
             "owner": "OffcierCia",
             "repo": "On-Chain-Investigations-Tools-List",
-            "stars": 1928
+            "stars": 1930
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-06-03T14:21:13Z",
             "owner": "OffcierCia",
             "repo": "On-Chain-Investigations-Tools-List",
-            "stars": 1928
+            "stars": 1930
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-06-03T14:21:13Z",
             "owner": "OffcierCia",
             "repo": "On-Chain-Investigations-Tools-List",
-            "stars": 1928
+            "stars": 1930
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-06-03T14:21:13Z",
             "owner": "OffcierCia",
             "repo": "On-Chain-Investigations-Tools-List",
-            "stars": 1928
+            "stars": 1930
           }
         }
       ],
@@ -111,7 +111,7 @@
             "last_commit": "2026-04-13T19:43:06Z",
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 21420
+            "stars": 21445
           }
         },
         {
@@ -123,10 +123,10 @@
             "archived": false,
             "id": 188836864,
             "language": "Go",
-            "last_commit": "2026-08-25T21:07:40Z",
+            "last_commit": "2026-08-27T04:29:39Z",
             "owner": "erigontech",
             "repo": "erigon",
-            "stars": 3579
+            "stars": 3580
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2026-08-18T21:03:49Z",
             "owner": "3b1b",
             "repo": "manim",
-            "stars": 92039
+            "stars": 92095
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2023-03-31T20:32:17Z",
             "owner": "monoand6",
             "repo": "web3cat",
-            "stars": 8
+            "stars": 7
           }
         },
         {
@@ -378,10 +378,10 @@
             "archived": false,
             "id": 54346799,
             "language": "Python",
-            "last_commit": "2026-08-19T21:44:19Z",
+            "last_commit": "2026-08-26T19:19:56Z",
             "owner": "public-apis",
             "repo": "public-apis",
-            "stars": 470448
+            "stars": 471157
           }
         },
         {
@@ -393,10 +393,10 @@
             "archived": false,
             "id": 162998479,
             "language": "Python",
-            "last_commit": "2026-08-25T05:15:58Z",
+            "last_commit": "2026-08-26T05:15:36Z",
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 90310
+            "stars": 90372
           }
         },
         {
@@ -408,10 +408,10 @@
             "archived": false,
             "id": 119190187,
             "language": "Go",
-            "last_commit": "2026-08-19T04:15:06Z",
+            "last_commit": "2026-08-26T04:17:05Z",
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 28958
+            "stars": 28968
           }
         },
         {
@@ -441,7 +441,7 @@
             "last_commit": "2026-07-21T19:36:01Z",
             "owner": "mito-ds",
             "repo": "mito",
-            "stars": 2645
+            "stars": 2646
           }
         },
         {
@@ -456,7 +456,7 @@
             "last_commit": "2026-08-25T16:20:39Z",
             "owner": "Jon-Becker",
             "repo": "heimdall-rs",
-            "stars": 1601
+            "stars": 1603
           }
         },
         {
@@ -486,7 +486,7 @@
             "last_commit": "2026-04-01T19:54:30Z",
             "owner": "blacklanternsecurity",
             "repo": "writehat",
-            "stars": 1513
+            "stars": 1514
           }
         },
         {
@@ -516,7 +516,7 @@
             "last_commit": "2025-06-26T15:50:00Z",
             "owner": "ConsenSysDiligence",
             "repo": "surya",
-            "stars": 1172
+            "stars": 1173
           }
         },
         {
@@ -528,7 +528,7 @@
             "archived": false,
             "id": 539758266,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T12:50:55Z",
+            "last_commit": "2026-08-27T02:58:43Z",
             "owner": "shazow",
             "repo": "whatsabi",
             "stars": 1160
@@ -1167,7 +1167,7 @@
             "last_commit": "2026-08-18T07:55:17Z",
             "owner": "bkrem",
             "repo": "awesome-solidity",
-            "stars": 7043
+            "stars": 7045
           }
         },
         {
@@ -1182,7 +1182,7 @@
             "last_commit": "2024-07-13T06:27:10Z",
             "owner": "AzizKpln",
             "repo": "Moriarty-Project",
-            "stars": 2073
+            "stars": 2074
           }
         },
         {
@@ -1227,7 +1227,7 @@
             "last_commit": "2026-08-01T11:57:14Z",
             "owner": "jiep",
             "repo": "offensive-ai-compilation",
-            "stars": 1420
+            "stars": 1418
           }
         },
         {
@@ -1625,7 +1625,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T23:40:28.708Z",
+    "last_updated": "2026-08-27T04:32:10.732Z",
     "original_repository": "OffcierCia/On-Chain-Investigations-Tools-List",
     "original_repository_id": 568727854,
     "original_repository_sha": "69769cbdece41e34c72a7b6573b67f583f7e1869",
