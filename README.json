@@ -111,7 +111,7 @@
             "last_commit": "2026-04-13T19:43:06Z",
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 21445
+            "stars": 21455
           }
         },
         {
@@ -123,7 +123,7 @@
             "archived": false,
             "id": 188836864,
             "language": "Go",
-            "last_commit": "2026-08-27T04:29:39Z",
+            "last_commit": "2026-08-27T11:53:12Z",
             "owner": "erigontech",
             "repo": "erigon",
             "stars": 3580
@@ -231,7 +231,7 @@
             "last_commit": "2026-08-18T21:03:49Z",
             "owner": "3b1b",
             "repo": "manim",
-            "stars": 92095
+            "stars": 92104
           }
         },
         {
@@ -381,7 +381,7 @@
             "last_commit": "2026-08-26T19:19:56Z",
             "owner": "public-apis",
             "repo": "public-apis",
-            "stars": 471157
+            "stars": 471378
           }
         },
         {
@@ -393,10 +393,10 @@
             "archived": false,
             "id": 162998479,
             "language": "Python",
-            "last_commit": "2026-08-26T05:15:36Z",
+            "last_commit": "2026-08-27T07:40:20Z",
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 90372
+            "stars": 90386
           }
         },
         {
@@ -411,7 +411,7 @@
             "last_commit": "2026-08-26T04:17:05Z",
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 28968
+            "stars": 28971
           }
         },
         {
@@ -1167,7 +1167,7 @@
             "last_commit": "2026-08-18T07:55:17Z",
             "owner": "bkrem",
             "repo": "awesome-solidity",
-            "stars": 7045
+            "stars": 7044
           }
         },
         {
@@ -1625,9 +1625,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:32:10.732Z",
-    "original_repository": "OffcierCia/On-Chain-Investigations-Tools-List",
-    "original_repository_id": 568727854,
+    "last_updated": "2026-08-27T11:54:03.364Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 568727854,
+      "language": null,
+      "last_commit": "2026-06-03T14:21:13Z",
+      "owner": "OffcierCia",
+      "repo": "On-Chain-Investigations-Tools-List",
+      "stars": 1930
+    },
     "original_repository_sha": "69769cbdece41e34c72a7b6573b67f583f7e1869",
     "enhanced_repository": "enhansome/enhansome-On-Chain-Investigations-Tools-List",
     "enhanced_repository_description": null,
