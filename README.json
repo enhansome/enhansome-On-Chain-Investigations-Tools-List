@@ -284,7 +284,7 @@
             "id": 188836864,
             "language": "Go",
             "license": "LGPL-3.0",
-            "last_commit": "2026-08-29T04:05:54Z",
+            "last_commit": "2026-08-29T04:25:07Z",
             "open_issues": 677,
             "owner": "erigontech",
             "repo": "erigon",
@@ -752,7 +752,7 @@
             "open_issues": 1809,
             "owner": "public-apis",
             "repo": "public-apis",
-            "stars": 472415,
+            "stars": 472420,
             "topics": [
               "api",
               "apis",
@@ -2940,7 +2940,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:12:11.218Z",
+    "last_updated": "2026-08-29T04:25:24.881Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we discuss how one can investigate crypto hacks and security incidents, and collect all the possible tools and manuals! PRs are welcome! If any tool is missing - please open PR!",

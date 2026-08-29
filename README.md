@@ -200,7 +200,7 @@
 
 **Specific:**
 
-* [Public APIs](https://github.com/public-apis/public-apis#cryptocurrency) ⭐ 472,415 | 🐛 1,809 | 🌐 Python | 📅 2026-08-26
+* [Public APIs](https://github.com/public-apis/public-apis#cryptocurrency) ⭐ 472,420 | 🐛 1,809 | 🌐 Python | 📅 2026-08-26
 * [Sherlock](https://github.com/sherlock-project/sherlock) ⭐ 90,566 | 🐛 334 | 🌐 Python | 📅 2026-08-28
 * [Gitleaks](https://github.com/gitleaks/gitleaks) ⭐ 29,001 | 🐛 467 | 🌐 Go | 📅 2026-08-26
 * [AI code translator](https://github.com/mckaywrigley/ai-code-translator) ⭐ 4,169 | 🐛 24 | 🌐 TypeScript | 📅 2023-12-21
