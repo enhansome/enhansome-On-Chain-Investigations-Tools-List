@@ -7,12 +7,12 @@
 
 | Section                         | Link                                                                                                                            |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| Tools List                      | [Explore](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List#i---tools-list) ⭐ 1,947 \| 🐛 9 \| 📅 2026-06-03     |
-| VR & 3D Tools List              | [Explore](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List#ii---vr--3d) ⭐ 1,947 \| 🐛 9 \| 📅 2026-06-03        |
-| Monero                          | [Explore](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List#iii---monero) ⭐ 1,947 \| 🐛 9 \| 📅 2026-06-03       |
-| Knowledge Hub                   | [Explore](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List#iv---knowledge-hub) ⭐ 1,947 \| 🐛 9 \| 📅 2026-06-03 |
-| Follow List                     | [Explore](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List#v---follow) ⭐ 1,947 \| 🐛 9 \| 📅 2026-06-03         |
-| Support Project                 | [Explore](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List#support-project) ⭐ 1,947 \| 🐛 9 \| 📅 2026-06-03    |
+| Tools List                      | [Explore](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List#i---tools-list) ⭐ 1,949 \| 🐛 9 \| 📅 2026-06-03     |
+| VR & 3D Tools List              | [Explore](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List#ii---vr--3d) ⭐ 1,949 \| 🐛 9 \| 📅 2026-06-03        |
+| Monero                          | [Explore](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List#iii---monero) ⭐ 1,949 \| 🐛 9 \| 📅 2026-06-03       |
+| Knowledge Hub                   | [Explore](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List#iv---knowledge-hub) ⭐ 1,949 \| 🐛 9 \| 📅 2026-06-03 |
+| Follow List                     | [Explore](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List#v---follow) ⭐ 1,949 \| 🐛 9 \| 📅 2026-06-03         |
+| Support Project                 | [Explore](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List#support-project) ⭐ 1,949 \| 🐛 9 \| 📅 2026-06-03    |
 | A Walkthrough by officercia.eth | [Explore](https://officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw)                                            |
 
 > **In [this](https://officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw) article I will tell you exactly how I investigate crypto hacks and security incidents, and describe methodology!**
@@ -30,8 +30,8 @@
 
 > Easy [Quick Start Into On-Chain Investigations](https://officercia.medium.com/awesome-on-chain-investigations-handbook-2-0-3acc7153c421)!
 
-* [SpiderFoot](https://github.com/smicallef/spiderfoot) ⭐ 22,306 | 🐛 319 | 🌐 Python | 📅 2026-04-13
-* [Erigon Archive Nodes](https://github.com/ledgerwatch/erigon) ⭐ 3,584 | 🐛 680 | 🌐 Go | 📅 2026-09-17
+* [SpiderFoot](https://github.com/smicallef/spiderfoot) ⭐ 22,361 | 🐛 319 | 🌐 Python | 📅 2026-04-13
+* [Erigon Archive Nodes](https://github.com/ledgerwatch/erigon) ⭐ 3,585 | 🐛 683 | 🌐 Go | 📅 2026-09-19
 * [blockchain-etl](https://github.com/blockchain-etl/ethereum-etl) ⭐ 3,129 | 🐛 153 | 🌐 Python | 📅 2026-01-25
 * [sol2uml](https://github.com/naddison36/sol2uml) ⭐ 1,314 | 🐛 18 | 🌐 TypeScript | 📅 2026-07-06
 * [tx2uml](https://github.com/naddison36/tx2uml) ⭐ 475 | 🐛 2 | 🌐 TypeScript | 📅 2026-03-08 & [Tx2uml Example](https://twitter.com/naddison/status/1633959965990977537) & [tx2uml v1.1.19](https://twitter.com/naddison/status/1640559616890392576)
@@ -107,7 +107,7 @@
 
 **Visualization:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 94,016 | 🐛 501 | 🌐 Python | 📅 2026-09-09
+* [Manim](https://github.com/3b1b/manim) ⭐ 94,048 | 🐛 500 | 🌐 Python | 📅 2026-09-09
 * [Orbit](https://github.com/s0md3v/Orbit) ⭐ 619 | 🐛 9 | 🌐 Python | 📅 2022-07-15
 * [Full label data dump of etherscan in JSON/CSV](https://github.com/brianleect/etherscan-labels) ⭐ 286 | 🐛 16 | 🌐 Python | 📅 2023-10-01
 * [Etherscan phish-hack.csv Labels](https://github.com/brianleect/etherscan-labels/blob/main/data/phish-hack.csv) ⭐ 286 | 🐛 16 | 🌐 Python | 📅 2023-10-01
@@ -186,7 +186,7 @@
 
 **Clusterizers:**
 
-* [metadock](https://github.com/blocksecteam/metadock) ⭐ 266 | 🐛 4 | 🌐 TypeScript | 📅 2026-06-18
+* [metadock](https://github.com/blocksecteam/metadock) ⭐ 266 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-18
 * [amlbot.com](https://amlbot.com/?ref=officercia)
 * [misttrack.io](https://misttrack.io)
 * [crystalblockchain.com](https://crystalblockchain.com)
@@ -200,22 +200,22 @@
 
 **Specific:**
 
-* [Public APIs](https://github.com/public-apis/public-apis#cryptocurrency) ⭐ 481,233 | 🐛 1,944 | 🌐 Python | 📅 2026-09-17
-* [Sherlock](https://github.com/sherlock-project/sherlock) ⭐ 92,000 | 🐛 347 | 🌐 Python | 📅 2026-09-17
-* [Gitleaks](https://github.com/gitleaks/gitleaks) ⭐ 29,365 | 🐛 482 | 🌐 Go | 📅 2026-09-09
+* [Public APIs](https://github.com/public-apis/public-apis#cryptocurrency) ⭐ 481,443 | 🐛 1,940 | 🌐 Python | 📅 2026-09-18
+* [Sherlock](https://github.com/sherlock-project/sherlock) ⭐ 92,055 | 🐛 347 | 🌐 Python | 📅 2026-09-18
+* [Gitleaks](https://github.com/gitleaks/gitleaks) ⭐ 29,384 | 🐛 481 | 🌐 Go | 📅 2026-09-09
 * [AI code translator](https://github.com/mckaywrigley/ai-code-translator) ⭐ 4,171 | 🐛 24 | 🌐 TypeScript | 📅 2023-12-21
 * [monorepo](https://github.com/mito-ds/monorepo) ⭐ 2,648 | 🐛 293 | 🌐 Jupyter Notebook | 📅 2026-07-21
-* [Heimdall-rs](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,616 | 🐛 40 | 🌐 Rust | 📅 2026-09-14
+* [Heimdall-rs](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,617 | 🐛 40 | 🌐 Rust | 📅 2026-09-14
 * [btcrecover](https://github.com/gurnec/btcrecover) ⭐ 1,584 | 🐛 384 | 🌐 Python | 📅 2024-08-02
 * [Writehat](https://github.com/blacklanternsecurity/writehat) ⭐ 1,526 | 🐛 40 | 🌐 Python | 📅 2026-04-01
 * [BTC List](https://github.com/igorbarinov/awesome-bitcoin) ⭐ 1,353 | 🐛 18 | 📅 2026-09-14
 * [Surya](https://github.com/ConsenSys/surya) ⭐ 1,174 | 🐛 8 | 🌐 JavaScript | 📅 2025-06-26
 * [whatsABI](https://github.com/shazow/whatsabi) ⭐ 1,162 | 🐛 40 | 🌐 TypeScript | 📅 2026-08-28
 * [ApeWorX/ape: Python](https://github.com/ApeWorX/ape) ⭐ 1,052 | 🐛 188 | 🌐 Python | 📅 2026-09-16
-* [BitCrack](https://github.com/brichard19/BitCrack) ⭐ 1,044 | 🐛 304 | 🌐 C++ | 📅 2024-03-17
+* [BitCrack](https://github.com/brichard19/BitCrack) ⭐ 1,045 | 🐛 304 | 🌐 C++ | 📅 2024-03-17
 * [Telegram OSINT](https://github.com/drego85/tosint) ⭐ 851 | 🐛 0 | 🌐 Python | 📅 2026-07-29
 * [JSleak](https://github.com/channyein1337/jsleak) ⭐ 595 | 🐛 5 | 🌐 Go | 📅 2025-09-25
-* [EVMole](https://github.com/cdump/evmole) ⭐ 463 | 🐛 2 | 🌐 Rust | 📅 2026-09-16
+* [EVMole](https://github.com/cdump/evmole) ⭐ 464 | 🐛 2 | 🌐 Rust | 📅 2026-09-16
 * [nft analyst starter pack](https://github.com/a16z/nft-analyst-starter-pack) ⭐ 460 | 🐛 7 | 🌐 Python | 📅 2024-02-03
 * [EVM Tools](https://github.com/CoinCulture/evm-tools) ⭐ 448 | 🐛 5 | 🌐 Go | 📅 2021-06-26
 * [Web3, Crypto, Metaverse and NFT resources for OSINT investigations](https://github.com/aaarghhh/awesome_osint_criypto_web3_stuff#metaverse) ⭐ 372 | 🐛 11 | 📅 2025-03-25
@@ -229,7 +229,7 @@
 * [Draw EVM contract byte code](https://github.com/DanielVF/evm-contract-draw) ⭐ 120 | 🐛 0 | 🌐 Nim | 📅 2022-04-05
 * [eth-explorers-extension](https://github.com/apoorvlathey/eth-explorers-extension) ⭐ 104 | 🐛 1 | 🌐 JavaScript | 📅 2024-09-23
 * [abi-lity](https://github.com/d1ll0n/abi-lity) ⭐ 95 | 🐛 3 | 🌐 TypeScript | 📅 2026-03-03
-* [defillama-extension](https://github.com/DefiLlama/defillama-extension) ⭐ 88 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-17
+* [defillama-extension](https://github.com/DefiLlama/defillama-extension) ⭐ 88 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-17
 * [pdfcrack](https://github.com/machine1337/pdfcrack) ⭐ 81 | 🐛 4 | 🌐 Python | 📅 2023-08-15
 * [RolodETH Ethereum tag system](https://github.com/verynifty/RolodETH) ⭐ 72 | 🐛 0 | 🌐 JavaScript | 📅 2023-01-20
 * [Ramen EVM](https://github.com/dyng/ramen) ⭐ 72 | 🐛 0 | 🌐 Go | 📅 2023-03-05
@@ -497,16 +497,16 @@
 ## IV - Knowledge Hub
 
 * [Solidity Pro](https://github.com/bkrem/awesome-solidity) ⭐ 7,046 | 🐛 16 | 📅 2026-09-14
-* [Moriarty Project Tool](https://github.com/AzizKpln/Moriarty-Project) ⭐ 2,088 | 🐛 3 | 🌐 Python | 📅 2026-09-09
+* [Moriarty Project Tool](https://github.com/AzizKpln/Moriarty-Project) ⭐ 2,089 | 🐛 3 | 🌐 Python | 📅 2026-09-09
 * [Learn EVM Attacks](https://github.com/coinspect/learn-evm-attacks) ⭐ 1,799 | 🐛 19 | 🌐 Solidity | 📅 2026-02-20
-* [ADF](https://github.com/ong/awesome-decentralized-finance) ⭐ 1,667 | 🐛 82 | 📅 2026-01-14
+* [ADF](https://github.com/ong/awesome-decentralized-finance) ⭐ 1,666 | 🐛 81 | 📅 2026-01-14
 * [Offensive AI](https://github.com/jiep/offensive-ai-compilation) ⭐ 1,426 | 🐛 4 | 🌐 HTML | 📅 2026-09-14
 * [MEV Toolkit](https://github.com/go-outside-labs/mev-toolkit) ⚠️ Archived
 * [OSINT Tools 2022](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Lists_of_OSINT_Web_Resources/1-Complete-List-of-OSINT-Web-Resources.md) ⭐ 973 | 🐛 11 | 🌐 HTML | 📅 2024-08-01
 * [OSINT Tools 2023](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Lists_of_OSINT_Web_Resources/2023-Recently-Added-Resources_ohshint.md) ⭐ 973 | 🐛 11 | 🌐 HTML | 📅 2024-08-01
 * [OSINT Toolkit](https://github.com/dev-lu/osint_toolkit) ⭐ 944 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-28
 * [Solana Security](https://github.com/0xsanny/solsec) ⭐ 891 | 🐛 2 | 📅 2024-12-13
-* [Smart Contract Auditor Tools and Techniques](https://github.com/shanzson/Smart-Contract-Auditor-Tools-and-Techniques) ⭐ 815 | 🐛 5 | 📅 2026-06-10
+* [Smart Contract Auditor Tools and Techniques](https://github.com/shanzson/Smart-Contract-Auditor-Tools-and-Techniques) ⭐ 815 | 🐛 6 | 📅 2026-06-10
 * [Discord OSINT](https://github.com/AtonceInventions/DiscordOSINT) ⭐ 598 | 🐛 0 | 📅 2024-08-08
 * [A curated list of crypto project trackers and analytics dashboards.](https://github.com/denisnazarov/awesome-crypto-trackers) ⭐ 486 | 🐛 20 | 📅 2025-03-25
 * [Slitherin: Slither Detectors by Pessimistic.io](https://github.com/pessimistic-io/slitherin) ⭐ 377 | 🐛 6 | 🌐 Python | 📅 2024-06-25
@@ -518,7 +518,7 @@
 * [A collection of dashboards related to Ethereum](https://github.com/superphiz/dashboards) ⭐ 213 | 🐛 1 | 📅 2025-10-02
 * [FindETH Tool](https://github.com/Mrtenz/FindETH) ⚠️ Archived
 * [Awesome EVM Security](https://github.com/kareniel/awesome-evm-security) ⭐ 200 | 🐛 1 | 📅 2022-06-06
-* [DeFi Defence DAO Tools](https://github.com/defi-defense-dao/defi-risk-tools-list#developer-tools) ⭐ 172 | 🐛 6 | 📅 2022-05-19
+* [DeFi Defence DAO Tools](https://github.com/defi-defense-dao/defi-risk-tools-list#developer-tools) ⭐ 171 | 🐛 6 | 📅 2022-05-19
 * [Dune client](https://github.com/cowprotocol/dune-client) ⭐ 139 | 🐛 1 | 🌐 Python | 📅 2026-09-10, [Dune Snippets](https://github.com/sambacha/dune-snippets) ⭐ 145 | 🐛 4 | 🌐 PLpgSQL | 📅 2024-04-16, [Python Dune](https://github.com/itzmestar/duneanalytics) ⭐ 135 | 🐛 5 | 🌐 Python | 📅 2024-04-12
 * [DeFi Toolkit](https://github.com/gweicz/defi-toolkit) ⚠️ Archived
 * [Curated list of Ethereum infographics](https://github.com/dgeorgiev06/awesome-ethereum-diagrams) ⭐ 102 | 🐛 2 | 📅 2022-11-17
@@ -814,4 +814,4 @@ Thank you! 🙏
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
