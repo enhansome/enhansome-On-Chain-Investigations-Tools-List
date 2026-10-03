@@ -1,240 +1,12 @@
 {
   "items": [
     {
-      "description": "In this article I will tell you exactly how I investigate crypto hacks and security incidents, and describe methodology!",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Tools List",
-          "description": "Explore",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Here we discuss how one can investigate crypto hacks and security incidents, and collect all the possible tools and manuals! PRs are welcome! If any tool is missing - please open PR!",
-            "homepage": "https://t.me/officer_cia",
-            "id": 568727854,
-            "language": null,
-            "license": "Unlicense",
-            "last_commit": "2026-06-03T14:21:13Z",
-            "open_issues": 11,
-            "owner": "OffcierCia",
-            "repo": "On-Chain-Investigations-Tools-List",
-            "stars": 1954,
-            "topics": [
-              "aml",
-              "awesome",
-              "awesome-list",
-              "awesome-readme",
-              "awsome-lists",
-              "bitcoin",
-              "blockchain",
-              "due-diligence",
-              "ethereum",
-              "investigation",
-              "on-chain-analysis",
-              "on-chain-investigation",
-              "osint",
-              "tether",
-              "visualization"
-            ]
-          },
-          "first_seen": "2026-08-28T06:56:49.604Z"
-        },
-        {
-          "node_type": "item",
-          "title": "VR & 3D Tools List",
-          "description": "Explore",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Here we discuss how one can investigate crypto hacks and security incidents, and collect all the possible tools and manuals! PRs are welcome! If any tool is missing - please open PR!",
-            "homepage": "https://t.me/officer_cia",
-            "id": 568727854,
-            "language": null,
-            "license": "Unlicense",
-            "last_commit": "2026-06-03T14:21:13Z",
-            "open_issues": 11,
-            "owner": "OffcierCia",
-            "repo": "On-Chain-Investigations-Tools-List",
-            "stars": 1954,
-            "topics": [
-              "aml",
-              "awesome",
-              "awesome-list",
-              "awesome-readme",
-              "awsome-lists",
-              "bitcoin",
-              "blockchain",
-              "due-diligence",
-              "ethereum",
-              "investigation",
-              "on-chain-analysis",
-              "on-chain-investigation",
-              "osint",
-              "tether",
-              "visualization"
-            ]
-          },
-          "first_seen": "2026-08-28T06:56:49.604Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Monero",
-          "description": "Explore",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Here we discuss how one can investigate crypto hacks and security incidents, and collect all the possible tools and manuals! PRs are welcome! If any tool is missing - please open PR!",
-            "homepage": "https://t.me/officer_cia",
-            "id": 568727854,
-            "language": null,
-            "license": "Unlicense",
-            "last_commit": "2026-06-03T14:21:13Z",
-            "open_issues": 11,
-            "owner": "OffcierCia",
-            "repo": "On-Chain-Investigations-Tools-List",
-            "stars": 1954,
-            "topics": [
-              "aml",
-              "awesome",
-              "awesome-list",
-              "awesome-readme",
-              "awsome-lists",
-              "bitcoin",
-              "blockchain",
-              "due-diligence",
-              "ethereum",
-              "investigation",
-              "on-chain-analysis",
-              "on-chain-investigation",
-              "osint",
-              "tether",
-              "visualization"
-            ]
-          },
-          "first_seen": "2026-08-28T06:56:49.604Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Knowledge Hub",
-          "description": "Explore",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Here we discuss how one can investigate crypto hacks and security incidents, and collect all the possible tools and manuals! PRs are welcome! If any tool is missing - please open PR!",
-            "homepage": "https://t.me/officer_cia",
-            "id": 568727854,
-            "language": null,
-            "license": "Unlicense",
-            "last_commit": "2026-06-03T14:21:13Z",
-            "open_issues": 11,
-            "owner": "OffcierCia",
-            "repo": "On-Chain-Investigations-Tools-List",
-            "stars": 1954,
-            "topics": [
-              "aml",
-              "awesome",
-              "awesome-list",
-              "awesome-readme",
-              "awsome-lists",
-              "bitcoin",
-              "blockchain",
-              "due-diligence",
-              "ethereum",
-              "investigation",
-              "on-chain-analysis",
-              "on-chain-investigation",
-              "osint",
-              "tether",
-              "visualization"
-            ]
-          },
-          "first_seen": "2026-08-28T06:56:49.604Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Follow List",
-          "description": "Explore",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Here we discuss how one can investigate crypto hacks and security incidents, and collect all the possible tools and manuals! PRs are welcome! If any tool is missing - please open PR!",
-            "homepage": "https://t.me/officer_cia",
-            "id": 568727854,
-            "language": null,
-            "license": "Unlicense",
-            "last_commit": "2026-06-03T14:21:13Z",
-            "open_issues": 11,
-            "owner": "OffcierCia",
-            "repo": "On-Chain-Investigations-Tools-List",
-            "stars": 1954,
-            "topics": [
-              "aml",
-              "awesome",
-              "awesome-list",
-              "awesome-readme",
-              "awsome-lists",
-              "bitcoin",
-              "blockchain",
-              "due-diligence",
-              "ethereum",
-              "investigation",
-              "on-chain-analysis",
-              "on-chain-investigation",
-              "osint",
-              "tether",
-              "visualization"
-            ]
-          },
-          "first_seen": "2026-08-28T06:56:49.604Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Support Project",
-          "description": "Explore",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Here we discuss how one can investigate crypto hacks and security incidents, and collect all the possible tools and manuals! PRs are welcome! If any tool is missing - please open PR!",
-            "homepage": "https://t.me/officer_cia",
-            "id": 568727854,
-            "language": null,
-            "license": "Unlicense",
-            "last_commit": "2026-06-03T14:21:13Z",
-            "open_issues": 11,
-            "owner": "OffcierCia",
-            "repo": "On-Chain-Investigations-Tools-List",
-            "stars": 1954,
-            "topics": [
-              "aml",
-              "awesome",
-              "awesome-list",
-              "awesome-readme",
-              "awsome-lists",
-              "bitcoin",
-              "blockchain",
-              "due-diligence",
-              "ethereum",
-              "investigation",
-              "on-chain-analysis",
-              "on-chain-investigation",
-              "osint",
-              "tether",
-              "visualization"
-            ]
-          },
-          "first_seen": "2026-08-28T06:56:49.604Z"
-        }
-      ],
-      "title": "Overview"
-    },
-    {
       "description": "Data-Analysis:\nEasy Quick Start Into On-Chain Investigations!\nVisualization:\nClusterizers:\nSpecific:\nHacks DBs",
       "items": [
         {
           "node_type": "item",
           "title": "SpiderFoot",
-          "description": null,
+          "description": "smicallef/spiderfoot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -247,7 +19,7 @@
             "open_issues": 323,
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 22733,
+            "stars": 22735,
             "topics": [
               "attacksurface",
               "cti",
@@ -275,7 +47,7 @@
         {
           "node_type": "item",
           "title": "Erigon Archive Nodes",
-          "description": null,
+          "description": "erigontech/erigon",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -284,8 +56,8 @@
             "id": 188836864,
             "language": "Go",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-03T01:56:12Z",
-            "open_issues": 721,
+            "last_commit": "2026-10-03T04:27:34Z",
+            "open_issues": 723,
             "owner": "erigontech",
             "repo": "erigon",
             "stars": 3586,
@@ -299,7 +71,7 @@
         {
           "node_type": "item",
           "title": "blockchain-etl",
-          "description": null,
+          "description": "blockchain-etl/ethereum-etl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -335,7 +107,7 @@
         {
           "node_type": "item",
           "title": "sol2uml",
-          "description": null,
+          "description": "naddison36/sol2uml",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -377,7 +149,7 @@
         {
           "node_type": "item",
           "title": "evm-trace",
-          "description": null,
+          "description": "ApeWorX/evm-trace",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -403,7 +175,7 @@
         {
           "node_type": "item",
           "title": "Maltego Transforms List",
-          "description": null,
+          "description": "cipher387/maltego-transforms-list",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -424,7 +196,7 @@
         {
           "node_type": "item",
           "title": "GraphSense Maltego Transform",
-          "description": null,
+          "description": "INTERPOL-Innovation-Centre/GraphSense-Maltego-transform",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -456,7 +228,7 @@
         {
           "node_type": "item",
           "title": "Manim",
-          "description": null,
+          "description": "3b1b/manim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -469,7 +241,7 @@
             "open_issues": 502,
             "owner": "3b1b",
             "repo": "manim",
-            "stars": 94473,
+            "stars": 94483,
             "topics": [
               "3b1b-videos",
               "animation",
@@ -482,7 +254,7 @@
         {
           "node_type": "item",
           "title": "Orbit",
-          "description": null,
+          "description": "s0md3v/Orbit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -507,7 +279,7 @@
         {
           "node_type": "item",
           "title": "Full label data dump of etherscan in JSON/CSV",
-          "description": null,
+          "description": "brianleect/etherscan-labels",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -546,7 +318,7 @@
         {
           "node_type": "item",
           "title": "Etherscan phish-hack.csv Labels",
-          "description": null,
+          "description": "brianleect/etherscan-labels",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -585,7 +357,7 @@
         {
           "node_type": "item",
           "title": "Gas Reporting",
-          "description": null,
+          "description": "sambacha/gas-reporting",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -623,7 +395,7 @@
         {
           "node_type": "item",
           "title": "Arronax",
-          "description": null,
+          "description": "Cryptonomic/Arronax",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -647,7 +419,7 @@
         {
           "node_type": "item",
           "title": "DarkBTCGraph",
-          "description": null,
+          "description": "netoeuler/darkbitcoingraph",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -668,7 +440,7 @@
         {
           "node_type": "item",
           "title": "web3cat",
-          "description": null,
+          "description": "monoand6/web3cat",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -689,7 +461,7 @@
         {
           "node_type": "item",
           "title": "Code2pdf",
-          "description": null,
+          "description": "SheldonHolmgren/code2pdf",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -710,7 +482,7 @@
         {
           "node_type": "item",
           "title": "metadock",
-          "description": null,
+          "description": "blocksecteam/metasuites",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -739,7 +511,7 @@
         {
           "node_type": "item",
           "title": "Public APIs",
-          "description": null,
+          "description": "public-apis/public-apis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -749,10 +521,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-02T22:24:14Z",
-            "open_issues": 1986,
+            "open_issues": 1987,
             "owner": "public-apis",
             "repo": "public-apis",
-            "stars": 485576,
+            "stars": 485595,
             "topics": [
               "api",
               "apis",
@@ -774,7 +546,7 @@
         {
           "node_type": "item",
           "title": "Sherlock",
-          "description": null,
+          "description": "sherlock-project/sherlock",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -787,7 +559,7 @@
             "open_issues": 354,
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 93156,
+            "stars": 93160,
             "topics": [
               "cli",
               "cti",
@@ -812,7 +584,7 @@
         {
           "node_type": "item",
           "title": "Gitleaks",
-          "description": null,
+          "description": "gitleaks/gitleaks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -825,7 +597,7 @@
             "open_issues": 489,
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 29622,
+            "stars": 29623,
             "topics": [
               "ai-powered",
               "ci-cd",
@@ -854,7 +626,7 @@
         {
           "node_type": "item",
           "title": "AI code translator",
-          "description": null,
+          "description": "mckaywrigley/ai-code-translator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -875,7 +647,7 @@
         {
           "node_type": "item",
           "title": "monorepo",
-          "description": null,
+          "description": "mito-ds/mito",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -909,7 +681,7 @@
         {
           "node_type": "item",
           "title": "Heimdall-rs",
-          "description": null,
+          "description": "Jon-Becker/heimdall-rs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -943,7 +715,7 @@
         {
           "node_type": "item",
           "title": "btcrecover",
-          "description": null,
+          "description": "gurnec/btcrecover",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -967,7 +739,7 @@
         {
           "node_type": "item",
           "title": "Writehat",
-          "description": null,
+          "description": "blacklanternsecurity/writehat",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -988,7 +760,7 @@
         {
           "node_type": "item",
           "title": "BTC List",
-          "description": null,
+          "description": "igorbarinov/awesome-bitcoin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1009,7 +781,7 @@
         {
           "node_type": "item",
           "title": "Surya",
-          "description": null,
+          "description": "ConsenSysDiligence/surya",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1030,7 +802,7 @@
         {
           "node_type": "item",
           "title": "whatsABI",
-          "description": null,
+          "description": "shazow/whatsabi",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1056,7 +828,7 @@
         {
           "node_type": "item",
           "title": "ApeWorX/ape: Python",
-          "description": null,
+          "description": "ApeWorX/ape",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1091,7 +863,7 @@
         {
           "node_type": "item",
           "title": "BitCrack",
-          "description": null,
+          "description": "brichard19/BitCrack",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1112,7 +884,7 @@
         {
           "node_type": "item",
           "title": "Telegram OSINT",
-          "description": null,
+          "description": "drego85/tosint",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1125,7 +897,7 @@
             "open_issues": 0,
             "owner": "drego85",
             "repo": "tosint",
-            "stars": 860,
+            "stars": 861,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:49.604Z"
@@ -1133,7 +905,7 @@
         {
           "node_type": "item",
           "title": "JSleak",
-          "description": null,
+          "description": "byt3hx/jsleak",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1154,7 +926,7 @@
         {
           "node_type": "item",
           "title": "EVMole",
-          "description": null,
+          "description": "cdump/evmole",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1181,7 +953,7 @@
         {
           "node_type": "item",
           "title": "nft analyst starter pack",
-          "description": null,
+          "description": "a16z/nft-analyst-starter-pack",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1208,7 +980,7 @@
         {
           "node_type": "item",
           "title": "EVM Tools",
-          "description": null,
+          "description": "CoinCulture/evm-tools",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1232,7 +1004,7 @@
         {
           "node_type": "item",
           "title": "Web3, Crypto, Metaverse and NFT resources for OSINT investigations",
-          "description": null,
+          "description": "aaarghhh/awesome_osint_blockchain_analysis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1257,7 +1029,7 @@
         {
           "node_type": "item",
           "title": "abi guesser",
-          "description": null,
+          "description": "openchainxyz/abi-guesser",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1278,7 +1050,7 @@
         {
           "node_type": "item",
           "title": "Twitter Social Graph",
-          "description": null,
+          "description": "Nican/Furland",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1299,7 +1071,7 @@
         {
           "node_type": "item",
           "title": "evm-cfg",
-          "description": null,
+          "description": "plotchy/evm-cfg",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1320,7 +1092,7 @@
         {
           "node_type": "item",
           "title": "A VSCode extension for inspecting solidity smartcontracts using Forge",
-          "description": null,
+          "description": "PraneshASP/vscode-solidity-inspector",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1345,7 +1117,7 @@
         {
           "node_type": "item",
           "title": "Vscode Solidity Inspector",
-          "description": null,
+          "description": "PraneshASP/vscode-solidity-inspector",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1370,7 +1142,7 @@
         {
           "node_type": "item",
           "title": "EVMc",
-          "description": null,
+          "description": "joshstevens19/evmc",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1391,7 +1163,7 @@
         {
           "node_type": "item",
           "title": "dETH Node",
-          "description": null,
+          "description": "dethcrypto/deth",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1421,7 +1193,7 @@
         {
           "node_type": "item",
           "title": "Draw EVM contract byte code",
-          "description": null,
+          "description": "DanielVF/evm-contract-draw",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1442,7 +1214,7 @@
         {
           "node_type": "item",
           "title": "eth-explorers-extension",
-          "description": null,
+          "description": "apoorvlathey/eth-explorers-extension",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1466,7 +1238,7 @@
         {
           "node_type": "item",
           "title": "abi-lity",
-          "description": null,
+          "description": "d1ll0n/abi-lity",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1487,7 +1259,7 @@
         {
           "node_type": "item",
           "title": "defillama-extension",
-          "description": null,
+          "description": "DefiLlama/defillama-extension",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1508,7 +1280,7 @@
         {
           "node_type": "item",
           "title": "pdfcrack",
-          "description": null,
+          "description": "machine1337/pdfcrack",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1541,7 +1313,7 @@
         {
           "node_type": "item",
           "title": "RolodETH Ethereum tag system",
-          "description": null,
+          "description": "verynifty/RolodETH",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1566,7 +1338,7 @@
         {
           "node_type": "item",
           "title": "Ramen EVM",
-          "description": null,
+          "description": "dyng/eth-ramen",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1591,7 +1363,7 @@
         {
           "node_type": "item",
           "title": "Smart Contract Hash Matcher",
-          "description": null,
+          "description": "lpinilla/Smart-Contract-Hash-Matcher",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1612,7 +1384,7 @@
         {
           "node_type": "item",
           "title": "TON blockchain investigation tool",
-          "description": null,
+          "description": "aaarghhh/a_TON_of_privacy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1638,7 +1410,7 @@
         {
           "node_type": "item",
           "title": "TON + Maltego",
-          "description": null,
+          "description": "aaarghhh/atop_maltego",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1662,7 +1434,7 @@
         {
           "node_type": "item",
           "title": "Cancel Ethereum Transaction",
-          "description": null,
+          "description": "mds1/Cancel-Ethereum-Transactions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1683,7 +1455,7 @@
         {
           "node_type": "item",
           "title": "BlockTracker",
-          "description": null,
+          "description": "thisiskeanyvy/blocktracker",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1725,7 +1497,7 @@
         {
           "node_type": "item",
           "title": "Bitcoin Prefixes Address List",
-          "description": null,
+          "description": "citizen010/bitcoin-prefixes-address-list",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1752,7 +1524,7 @@
         {
           "node_type": "item",
           "title": "Erigon + Otterscan",
-          "description": null,
+          "description": "wmitsuda/erigon",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1773,7 +1545,7 @@
         {
           "node_type": "item",
           "title": "Forta Contract Simil",
-          "description": null,
+          "description": "Soptq/forta-contract-simil",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1815,7 +1587,7 @@
         {
           "node_type": "item",
           "title": "BTC Wallet Recovery Tool",
-          "description": null,
+          "description": "gabcvit/find-my-btc-wallet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1836,7 +1608,7 @@
         {
           "node_type": "item",
           "title": "Uniscan",
-          "description": null,
+          "description": "uni-arts-chain/uniscan",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1857,7 +1629,7 @@
         {
           "node_type": "item",
           "title": "Hacken Oracle",
-          "description": null,
+          "description": "hknio/hacken-oracle",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1878,7 +1650,7 @@
         {
           "node_type": "item",
           "title": "ethcmd",
-          "description": null,
+          "description": "bit-warrior/ethcmd",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1899,7 +1671,7 @@
         {
           "node_type": "item",
           "title": "forta ENS spoofing",
-          "description": null,
+          "description": "kovart/forta-ens-spoofing",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1947,7 +1719,7 @@
         {
           "node_type": "item",
           "title": "ETH On-chain price",
-          "description": null,
+          "description": "brianleect/eth-onchain-price",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1973,7 +1745,7 @@
         {
           "node_type": "item",
           "title": "NFT Mind Analysis Tool",
-          "description": null,
+          "description": "brianleect/nft-manual-mint-analysis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1994,7 +1766,7 @@
         {
           "node_type": "item",
           "title": "eth-onchain-price",
-          "description": null,
+          "description": "brianleect/eth-onchain-price",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2020,7 +1792,7 @@
         {
           "node_type": "item",
           "title": "nft-manual-mint-analysis",
-          "description": null,
+          "description": "brianleect/nft-manual-mint-analysis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2047,7 +1819,7 @@
         {
           "node_type": "item",
           "title": "Solidity Pro",
-          "description": null,
+          "description": "bkrem/awesome-solidity",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2089,7 +1861,7 @@
         {
           "node_type": "item",
           "title": "Moriarty Project Tool",
-          "description": null,
+          "description": "AzizKpln/Gokboru_Intel",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2131,7 +1903,7 @@
         {
           "node_type": "item",
           "title": "Learn EVM Attacks",
-          "description": null,
+          "description": "coinspect/learn-evm-attacks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2160,7 +1932,7 @@
         {
           "node_type": "item",
           "title": "ADF",
-          "description": null,
+          "description": "ong/awesome-decentralized-finance",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2190,7 +1962,7 @@
         {
           "node_type": "item",
           "title": "Offensive AI",
-          "description": null,
+          "description": "jiep/offensive-ai-compilation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2217,7 +1989,7 @@
         {
           "node_type": "item",
           "title": "MEV Toolkit",
-          "description": null,
+          "description": "cypherpunk-symposium/dark-forest-toolkit",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2259,7 +2031,7 @@
         {
           "node_type": "item",
           "title": "OSINT Tools 2022",
-          "description": null,
+          "description": "OhShINT/ohshint.gitbook.io",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2301,7 +2073,7 @@
         {
           "node_type": "item",
           "title": "OSINT Tools 2023",
-          "description": null,
+          "description": "OhShINT/ohshint.gitbook.io",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2343,7 +2115,7 @@
         {
           "node_type": "item",
           "title": "OSINT Toolkit",
-          "description": null,
+          "description": "dev-lu/osint_toolkit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2369,7 +2141,7 @@
         {
           "node_type": "item",
           "title": "Solana Security",
-          "description": null,
+          "description": "sannykim/solsec",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2390,7 +2162,7 @@
         {
           "node_type": "item",
           "title": "Smart Contract Auditor Tools and Techniques",
-          "description": null,
+          "description": "shanzson/Smart-Contract-Auditor-Tools-and-Techniques",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2422,7 +2194,7 @@
         {
           "node_type": "item",
           "title": "Discord OSINT",
-          "description": null,
+          "description": "husseinmuhaisen/DiscordOSINT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2443,7 +2215,7 @@
         {
           "node_type": "item",
           "title": "A curated list of crypto project trackers and analytics dashboards.",
-          "description": null,
+          "description": "denisnazarov/awesome-crypto-trackers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2464,7 +2236,7 @@
         {
           "node_type": "item",
           "title": "Slitherin: Slither Detectors by Pessimistic.io",
-          "description": null,
+          "description": "pessimistic-io/slitherin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2491,7 +2263,7 @@
         {
           "node_type": "item",
           "title": "Web3, Crypto, Metaverse and NFT resources for OSINT investigations",
-          "description": null,
+          "description": "aaarghhh/awesome_osint_blockchain_analysis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2516,7 +2288,7 @@
         {
           "node_type": "item",
           "title": "Tornado Cash In-Depth",
-          "description": null,
+          "description": "minaminao/tornado-cats",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2537,7 +2309,7 @@
         {
           "node_type": "item",
           "title": "phish-hack.csv Etherscan Labels",
-          "description": null,
+          "description": "brianleect/etherscan-labels",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2576,7 +2348,7 @@
         {
           "node_type": "item",
           "title": "NFT Attack Vectors",
-          "description": null,
+          "description": "Quillhash/NFT-Attack-Vectors",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2644,7 +2416,7 @@
         {
           "node_type": "item",
           "title": "A collection of dashboards related to Ethereum",
-          "description": null,
+          "description": "superphiz/dashboards",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2665,7 +2437,7 @@
         {
           "node_type": "item",
           "title": "FindETH Tool",
-          "description": null,
+          "description": "Mrtenz/FindETH",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2697,7 +2469,7 @@
         {
           "node_type": "item",
           "title": "Awesome EVM Security",
-          "description": null,
+          "description": "kareniel/awesome-evm-security",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2726,7 +2498,7 @@
         {
           "node_type": "item",
           "title": "DeFi Defence DAO Tools",
-          "description": null,
+          "description": "defi-defense-dao/defi-risk-tools-list",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2772,7 +2544,7 @@
         {
           "node_type": "item",
           "title": "DeFi Toolkit",
-          "description": null,
+          "description": "gweicz/defi-toolkit",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2793,7 +2565,7 @@
         {
           "node_type": "item",
           "title": "Curated list of Ethereum infographics",
-          "description": null,
+          "description": "dgeorgiev06/awesome-ethereum-diagrams",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2819,7 +2591,7 @@
         {
           "node_type": "item",
           "title": "StegoIntelligence",
-          "description": null,
+          "description": "CScorza/StegoIntelligence",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2850,7 +2622,7 @@
         {
           "node_type": "item",
           "title": "INTERPOL Hardware Wallets List",
-          "description": null,
+          "description": "INTERPOL-Innovation-Centre/HardwareWallets_DF_List",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2875,7 +2647,7 @@
         {
           "node_type": "item",
           "title": "Awesome Blockchain Visualisation",
-          "description": null,
+          "description": "xpfio/awesome-blockchain-visualisation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2896,7 +2668,7 @@
         {
           "node_type": "item",
           "title": "A graph visualization of Bitcoin transactions using Sigma.js",
-          "description": null,
+          "description": "rautio/bitcoin-graph-viz",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2917,7 +2689,7 @@
         {
           "node_type": "item",
           "title": "OnChain Transaction Debugging: 1. Tools",
-          "description": null,
+          "description": "zeayal/xiao-po-zhan",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2940,7 +2712,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:01:09.075Z",
+    "last_updated": "2026-10-03T04:29:25.796Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we discuss how one can investigate crypto hacks and security incidents, and collect all the possible tools and manuals! PRs are welcome! If any tool is missing - please open PR!",
@@ -2952,7 +2724,7 @@
       "open_issues": 11,
       "owner": "OffcierCia",
       "repo": "On-Chain-Investigations-Tools-List",
-      "stars": 1954,
+      "stars": 1955,
       "topics": [
         "aml",
         "awesome",
