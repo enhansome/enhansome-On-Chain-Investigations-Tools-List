@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-04-13T19:43:06Z",
-            "open_issues": 328,
+            "open_issues": 329,
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 22863,
+            "stars": 22990,
             "topics": [
               "attacksurface",
               "cti",
@@ -56,8 +56,8 @@
             "id": 188836864,
             "language": "Go",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-06T10:39:53Z",
-            "open_issues": 745,
+            "last_commit": "2026-10-07T02:25:18Z",
+            "open_issues": 751,
             "owner": "erigontech",
             "repo": "erigon",
             "stars": 3585,
@@ -241,7 +241,7 @@
             "open_issues": 503,
             "owner": "3b1b",
             "repo": "manim",
-            "stars": 94661,
+            "stars": 94672,
             "topics": [
               "3b1b-videos",
               "animation",
@@ -521,10 +521,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-05T22:52:00Z",
-            "open_issues": 2030,
+            "open_issues": 2045,
             "owner": "public-apis",
             "repo": "public-apis",
-            "stars": 486445,
+            "stars": 486580,
             "topics": [
               "api",
               "apis",
@@ -559,7 +559,7 @@
             "open_issues": 356,
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 93313,
+            "stars": 93353,
             "topics": [
               "cli",
               "cti",
@@ -597,7 +597,7 @@
             "open_issues": 493,
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 29721,
+            "stars": 29752,
             "topics": [
               "ai-powered",
               "ci-cd",
@@ -690,8 +690,8 @@
             "id": 499880203,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-04T01:01:26Z",
-            "open_issues": 42,
+            "last_commit": "2026-10-06T14:14:19Z",
+            "open_issues": 41,
             "owner": "Jon-Becker",
             "repo": "heimdall-rs",
             "stars": 1617,
@@ -838,7 +838,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-25T01:18:05Z",
-            "open_issues": 190,
+            "open_issues": 191,
             "owner": "ApeWorX",
             "repo": "ape",
             "stars": 1054,
@@ -876,7 +876,7 @@
             "open_issues": 304,
             "owner": "brichard19",
             "repo": "BitCrack",
-            "stars": 1048,
+            "stars": 1047,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:49.604Z"
@@ -1874,7 +1874,7 @@
             "open_issues": 3,
             "owner": "AzizKpln",
             "repo": "Gokboru_Intel",
-            "stars": 2107,
+            "stars": 2109,
             "topics": [
               "advanced",
               "advanced-osint-tool",
@@ -2151,7 +2151,7 @@
             "language": null,
             "license": null,
             "last_commit": "2024-12-13T08:22:39Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "sannykim",
             "repo": "solsec",
             "stars": 895,
@@ -2207,7 +2207,7 @@
             "open_issues": 0,
             "owner": "husseinmuhaisen",
             "repo": "DiscordOSINT",
-            "stars": 600,
+            "stars": 599,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:49.604Z"
@@ -2712,7 +2712,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:10:02.684Z",
+    "last_updated": "2026-10-07T02:25:54.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we discuss how one can investigate crypto hacks and security incidents, and collect all the possible tools and manuals! PRs are welcome! If any tool is missing - please open PR!",
