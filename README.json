@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-04-13T19:43:06Z",
-            "open_issues": 330,
+            "open_issues": 336,
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 23246,
+            "stars": 23289,
             "topics": [
               "attacksurface",
               "cti",
@@ -56,8 +56,8 @@
             "id": 188836864,
             "language": "Go",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-10T02:20:44Z",
-            "open_issues": 761,
+            "last_commit": "2026-10-10T20:16:46Z",
+            "open_issues": 774,
             "owner": "erigontech",
             "repo": "erigon",
             "stars": 3587,
@@ -238,10 +238,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-09T16:23:48Z",
-            "open_issues": 499,
+            "open_issues": 500,
             "owner": "3b1b",
             "repo": "manim",
-            "stars": 94817,
+            "stars": 94860,
             "topics": [
               "3b1b-videos",
               "animation",
@@ -520,11 +520,11 @@
             "id": 54346799,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-05T22:52:00Z",
-            "open_issues": 2120,
+            "last_commit": "2026-10-10T19:45:58Z",
+            "open_issues": 2109,
             "owner": "public-apis",
             "repo": "public-apis",
-            "stars": 487016,
+            "stars": 487296,
             "topics": [
               "api",
               "apis",
@@ -555,11 +555,11 @@
             "id": 162998479,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-09T05:19:12Z",
-            "open_issues": 356,
+            "last_commit": "2026-10-10T05:17:15Z",
+            "open_issues": 355,
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 93717,
+            "stars": 93779,
             "topics": [
               "cli",
               "cti",
@@ -594,10 +594,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-30T04:14:02Z",
-            "open_issues": 494,
+            "open_issues": 495,
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 29822,
+            "stars": 29840,
             "topics": [
               "ai-powered",
               "ci-cd",
@@ -690,11 +690,11 @@
             "id": 499880203,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-09T20:24:15Z",
+            "last_commit": "2026-10-11T00:23:02Z",
             "open_issues": 41,
             "owner": "Jon-Becker",
             "repo": "heimdall-rs",
-            "stars": 1620,
+            "stars": 1621,
             "topics": [
               "cfg",
               "decoder",
@@ -728,7 +728,7 @@
             "open_issues": 384,
             "owner": "gurnec",
             "repo": "btcrecover",
-            "stars": 1590,
+            "stars": 1591,
             "topics": [
               "bitcoin",
               "password-recovery"
@@ -897,7 +897,7 @@
             "open_issues": 0,
             "owner": "drego85",
             "repo": "tosint",
-            "stars": 873,
+            "stars": 874,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:49.604Z"
@@ -1832,7 +1832,7 @@
             "open_issues": 15,
             "owner": "bkrem",
             "repo": "awesome-solidity",
-            "stars": 7050,
+            "stars": 7051,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1975,7 +1975,7 @@
             "open_issues": 5,
             "owner": "jiep",
             "repo": "offensive-ai-compilation",
-            "stars": 1437,
+            "stars": 1438,
             "topics": [
               "adversarial-machine-learning",
               "ai-security",
@@ -2175,7 +2175,7 @@
             "open_issues": 7,
             "owner": "shanzson",
             "repo": "Smart-Contract-Auditor-Tools-and-Techniques",
-            "stars": 815,
+            "stars": 814,
             "topics": [
               "blockchain",
               "ethereum",
@@ -2712,7 +2712,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T02:22:34.715Z",
+    "last_updated": "2026-10-11T01:56:41.662Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we discuss how one can investigate crypto hacks and security incidents, and collect all the possible tools and manuals! PRs are welcome! If any tool is missing - please open PR!",
@@ -2724,7 +2724,7 @@
       "open_issues": 13,
       "owner": "OffcierCia",
       "repo": "On-Chain-Investigations-Tools-List",
-      "stars": 1962,
+      "stars": 1964,
       "topics": [
         "aml",
         "awesome",
