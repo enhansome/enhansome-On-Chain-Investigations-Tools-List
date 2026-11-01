@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-04-13T19:43:06Z",
-            "open_issues": 380,
+            "open_issues": 383,
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 24114,
+            "stars": 24186,
             "topics": [
               "attacksurface",
               "cti",
@@ -56,11 +56,11 @@
             "id": 188836864,
             "language": "Go",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-31T02:24:36Z",
-            "open_issues": 790,
+            "last_commit": "2026-11-01T02:10:03Z",
+            "open_issues": 793,
             "owner": "erigontech",
             "repo": "erigon",
-            "stars": 3592,
+            "stars": 3593,
             "topics": [
               "blockchain",
               "ethereum"
@@ -238,10 +238,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-09T16:23:48Z",
-            "open_issues": 514,
+            "open_issues": 515,
             "owner": "3b1b",
             "repo": "manim",
-            "stars": 95920,
+            "stars": 95949,
             "topics": [
               "3b1b-videos",
               "animation",
@@ -521,10 +521,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-30T16:40:39Z",
-            "open_issues": 2490,
+            "open_issues": 2515,
             "owner": "public-apis",
             "repo": "public-apis",
-            "stars": 493570,
+            "stars": 493839,
             "topics": [
               "api",
               "apis",
@@ -555,11 +555,11 @@
             "id": 162998479,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-30T05:15:22Z",
+            "last_commit": "2026-10-31T05:12:25Z",
             "open_issues": 356,
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 95277,
+            "stars": 95336,
             "topics": [
               "cli",
               "cti",
@@ -594,10 +594,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-28T04:14:29Z",
-            "open_issues": 522,
+            "open_issues": 524,
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 30533,
+            "stars": 30553,
             "topics": [
               "ai-powered",
               "ci-cd",
@@ -690,7 +690,7 @@
             "id": 499880203,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-25T00:19:25Z",
+            "last_commit": "2026-11-01T00:14:22Z",
             "open_issues": 44,
             "owner": "Jon-Becker",
             "repo": "heimdall-rs",
@@ -725,7 +725,7 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2024-08-02T04:13:10Z",
-            "open_issues": 384,
+            "open_issues": 385,
             "owner": "gurnec",
             "repo": "btcrecover",
             "stars": 1595,
@@ -752,7 +752,7 @@
             "open_issues": 40,
             "owner": "blacklanternsecurity",
             "repo": "writehat",
-            "stars": 1537,
+            "stars": 1538,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:49.604Z"
@@ -770,7 +770,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-21T14:23:58Z",
-            "open_issues": 29,
+            "open_issues": 28,
             "owner": "igorbarinov",
             "repo": "awesome-bitcoin",
             "stars": 1357,
@@ -1832,7 +1832,7 @@
             "open_issues": 20,
             "owner": "bkrem",
             "repo": "awesome-solidity",
-            "stars": 7067,
+            "stars": 7068,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1874,7 +1874,7 @@
             "open_issues": 4,
             "owner": "AzizKpln",
             "repo": "Gokboru_Intel",
-            "stars": 2127,
+            "stars": 2129,
             "topics": [
               "advanced",
               "advanced-osint-tool",
@@ -1916,7 +1916,7 @@
             "open_issues": 19,
             "owner": "coinspect",
             "repo": "learn-evm-attacks",
-            "stars": 1798,
+            "stars": 1799,
             "topics": [
               "audit",
               "ethereum",
@@ -2044,7 +2044,7 @@
             "open_issues": 12,
             "owner": "OhShINT",
             "repo": "ohshint.gitbook.io",
-            "stars": 977,
+            "stars": 978,
             "topics": [
               "corpint",
               "dnint",
@@ -2086,7 +2086,7 @@
             "open_issues": 12,
             "owner": "OhShINT",
             "repo": "ohshint.gitbook.io",
-            "stars": 977,
+            "stars": 978,
             "topics": [
               "corpint",
               "dnint",
@@ -2128,7 +2128,7 @@
             "open_issues": 0,
             "owner": "dev-lu",
             "repo": "osint_toolkit",
-            "stars": 951,
+            "stars": 952,
             "topics": [
               "cybersecurity",
               "threat-detection",
@@ -2207,7 +2207,7 @@
             "open_issues": 0,
             "owner": "husseinmuhaisen",
             "repo": "DiscordOSINT",
-            "stars": 608,
+            "stars": 611,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:49.604Z"
@@ -2635,7 +2635,7 @@
             "open_issues": 2,
             "owner": "INTERPOL-Innovation-Centre",
             "repo": "HardwareWallets_DF_List",
-            "stars": 29,
+            "stars": 30,
             "topics": [
               "bitcoin",
               "forensics-investigations",
@@ -2712,7 +2712,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T02:25:57.557Z",
+    "last_updated": "2026-11-01T02:15:09.324Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we discuss how one can investigate crypto hacks and security incidents, and collect all the possible tools and manuals! PRs are welcome! If any tool is missing - please open PR!",
