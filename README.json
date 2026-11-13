@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-04-13T19:43:06Z",
-            "open_issues": 403,
+            "open_issues": 405,
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 24515,
+            "stars": 24549,
             "topics": [
               "attacksurface",
               "cti",
@@ -56,11 +56,11 @@
             "id": 188836864,
             "language": "Go",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-12T03:31:11Z",
-            "open_issues": 789,
+            "last_commit": "2026-11-13T03:25:17Z",
+            "open_issues": 816,
             "owner": "erigontech",
             "repo": "erigon",
-            "stars": 3621,
+            "stars": 3623,
             "topics": [
               "blockchain",
               "ethereum"
@@ -241,7 +241,7 @@
             "open_issues": 519,
             "owner": "3b1b",
             "repo": "manim",
-            "stars": 96419,
+            "stars": 96465,
             "topics": [
               "3b1b-videos",
               "animation",
@@ -521,10 +521,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-11T16:37:57Z",
-            "open_issues": 2637,
+            "open_issues": 2675,
             "owner": "public-apis",
             "repo": "public-apis",
-            "stars": 498297,
+            "stars": 498562,
             "topics": [
               "api",
               "apis",
@@ -555,11 +555,11 @@
             "id": 162998479,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-11T05:13:32Z",
-            "open_issues": 410,
+            "last_commit": "2026-11-12T05:13:58Z",
+            "open_issues": 412,
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 110174,
+            "stars": 110612,
             "topics": [
               "cli",
               "cti",
@@ -594,10 +594,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-28T04:14:29Z",
-            "open_issues": 539,
+            "open_issues": 540,
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 30939,
+            "stars": 30976,
             "topics": [
               "ai-powered",
               "ci-cd",
@@ -639,7 +639,7 @@
             "open_issues": 24,
             "owner": "mckaywrigley",
             "repo": "ai-code-translator",
-            "stars": 4159,
+            "stars": 4158,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:49.604Z"
@@ -694,7 +694,7 @@
             "open_issues": 45,
             "owner": "Jon-Becker",
             "repo": "heimdall-rs",
-            "stars": 1641,
+            "stars": 1642,
             "topics": [
               "cfg",
               "decoder",
@@ -728,7 +728,7 @@
             "open_issues": 383,
             "owner": "gurnec",
             "repo": "btcrecover",
-            "stars": 1597,
+            "stars": 1598,
             "topics": [
               "bitcoin",
               "password-recovery"
@@ -770,10 +770,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-21T14:23:58Z",
-            "open_issues": 35,
+            "open_issues": 36,
             "owner": "igorbarinov",
             "repo": "awesome-bitcoin",
-            "stars": 1357,
+            "stars": 1358,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:49.604Z"
@@ -794,7 +794,7 @@
             "open_issues": 8,
             "owner": "ConsenSysDiligence",
             "repo": "surya",
-            "stars": 1171,
+            "stars": 1172,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:49.604Z"
@@ -858,7 +858,7 @@
             "id": 326840499,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T17:51:21Z",
+            "last_commit": "2026-11-12T15:23:20Z",
             "open_issues": 195,
             "owner": "ApeWorX",
             "repo": "ape",
@@ -893,7 +893,7 @@
             "id": 389592303,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-10T21:10:15Z",
+            "last_commit": "2026-11-12T08:45:44Z",
             "open_issues": 0,
             "owner": "drego85",
             "repo": "tosint",
@@ -1014,7 +1014,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-11-02T08:50:27Z",
-            "open_issues": 6,
+            "open_issues": 5,
             "owner": "aaarghhh",
             "repo": "awesome_osint_blockchain_analysis",
             "stars": 376,
@@ -1828,11 +1828,11 @@
             "id": 62893187,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-25T14:06:59Z",
-            "open_issues": 25,
+            "last_commit": "2026-11-12T13:31:16Z",
+            "open_issues": 27,
             "owner": "bkrem",
             "repo": "awesome-solidity",
-            "stars": 7072,
+            "stars": 7074,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1874,7 +1874,7 @@
             "open_issues": 4,
             "owner": "AzizKpln",
             "repo": "Gokboru_Intel",
-            "stars": 2141,
+            "stars": 2142,
             "topics": [
               "advanced",
               "advanced-osint-tool",
@@ -1942,7 +1942,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-01-14T20:11:22Z",
-            "open_issues": 88,
+            "open_issues": 89,
             "owner": "ong",
             "repo": "awesome-decentralized-finance",
             "stars": 1673,
@@ -1975,7 +1975,7 @@
             "open_issues": 6,
             "owner": "jiep",
             "repo": "offensive-ai-compilation",
-            "stars": 1449,
+            "stars": 1448,
             "topics": [
               "adversarial-machine-learning",
               "ai-security",
@@ -2128,7 +2128,7 @@
             "open_issues": 0,
             "owner": "dev-lu",
             "repo": "osint_toolkit",
-            "stars": 957,
+            "stars": 958,
             "topics": [
               "cybersecurity",
               "threat-detection",
@@ -2273,7 +2273,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-11-02T08:50:27Z",
-            "open_issues": 6,
+            "open_issues": 5,
             "owner": "aaarghhh",
             "repo": "awesome_osint_blockchain_analysis",
             "stars": 376,
@@ -2415,27 +2415,6 @@
         },
         {
           "node_type": "item",
-          "title": "A collection of dashboards related to Ethereum",
-          "description": "superphiz/dashboards",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A collection of dashboards related to Ethereum",
-            "homepage": null,
-            "id": 559674762,
-            "language": null,
-            "license": null,
-            "last_commit": "2025-10-02T09:52:44Z",
-            "open_issues": 1,
-            "owner": "superphiz",
-            "repo": "dashboards",
-            "stars": 213,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T06:56:49.604Z"
-        },
-        {
-          "node_type": "item",
           "title": "FindETH Tool",
           "description": "Mrtenz/FindETH",
           "children": [],
@@ -2463,6 +2442,27 @@
               "tool",
               "trezor"
             ]
+          },
+          "first_seen": "2026-08-28T06:56:49.604Z"
+        },
+        {
+          "node_type": "item",
+          "title": "A collection of dashboards related to Ethereum",
+          "description": "superphiz/dashboards",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A collection of dashboards related to Ethereum",
+            "homepage": null,
+            "id": 559674762,
+            "language": null,
+            "license": null,
+            "last_commit": "2025-10-02T09:52:44Z",
+            "open_issues": 1,
+            "owner": "superphiz",
+            "repo": "dashboards",
+            "stars": 211,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:56:49.604Z"
         },
@@ -2712,7 +2712,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T03:49:39.049Z",
+    "last_updated": "2026-11-13T03:25:52.376Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we discuss how one can investigate crypto hacks and security incidents, and collect all the possible tools and manuals! PRs are welcome! If any tool is missing - please open PR!",
