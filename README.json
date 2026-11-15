@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-04-13T19:43:06Z",
-            "open_issues": 407,
+            "open_issues": 411,
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 24574,
+            "stars": 24593,
             "topics": [
               "attacksurface",
               "cti",
@@ -56,11 +56,11 @@
             "id": 188836864,
             "language": "Go",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-14T03:06:42Z",
+            "last_commit": "2026-11-15T02:32:09Z",
             "open_issues": 821,
             "owner": "erigontech",
             "repo": "erigon",
-            "stars": 3625,
+            "stars": 3627,
             "topics": [
               "blockchain",
               "ethereum"
@@ -241,7 +241,7 @@
             "open_issues": 519,
             "owner": "3b1b",
             "repo": "manim",
-            "stars": 96495,
+            "stars": 96532,
             "topics": [
               "3b1b-videos",
               "animation",
@@ -521,10 +521,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-13T17:59:59Z",
-            "open_issues": 2672,
+            "open_issues": 2710,
             "owner": "public-apis",
             "repo": "public-apis",
-            "stars": 498812,
+            "stars": 499055,
             "topics": [
               "api",
               "apis",
@@ -555,11 +555,11 @@
             "id": 162998479,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-13T05:13:46Z",
+            "last_commit": "2026-11-14T05:13:08Z",
             "open_issues": 414,
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 111217,
+            "stars": 111831,
             "topics": [
               "cli",
               "cti",
@@ -597,7 +597,7 @@
             "open_issues": 543,
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 31005,
+            "stars": 31034,
             "topics": [
               "ai-powered",
               "ci-cd",
@@ -690,11 +690,11 @@
             "id": 499880203,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-08T19:22:33Z",
+            "last_commit": "2026-11-15T00:12:14Z",
             "open_issues": 45,
             "owner": "Jon-Becker",
             "repo": "heimdall-rs",
-            "stars": 1642,
+            "stars": 1643,
             "topics": [
               "cfg",
               "decoder",
@@ -752,7 +752,7 @@
             "open_issues": 40,
             "owner": "blacklanternsecurity",
             "repo": "writehat",
-            "stars": 1543,
+            "stars": 1544,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:49.604Z"
@@ -827,27 +827,6 @@
         },
         {
           "node_type": "item",
-          "title": "BitCrack",
-          "description": "brichard19/BitCrack",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A tool for cracking Bitcoin private keys",
-            "homepage": null,
-            "id": 120692793,
-            "language": "C++",
-            "license": "MIT",
-            "last_commit": "2024-03-17T13:25:59Z",
-            "open_issues": 305,
-            "owner": "brichard19",
-            "repo": "BitCrack",
-            "stars": 1056,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T06:56:49.604Z"
-        },
-        {
-          "node_type": "item",
           "title": "ApeWorX/ape: Python",
           "description": "ApeWorX/ape",
           "children": [],
@@ -878,6 +857,27 @@
               "vyper",
               "web3"
             ]
+          },
+          "first_seen": "2026-08-28T06:56:49.604Z"
+        },
+        {
+          "node_type": "item",
+          "title": "BitCrack",
+          "description": "brichard19/BitCrack",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A tool for cracking Bitcoin private keys",
+            "homepage": null,
+            "id": 120692793,
+            "language": "C++",
+            "license": "MIT",
+            "last_commit": "2024-03-17T13:25:59Z",
+            "open_issues": 305,
+            "owner": "brichard19",
+            "repo": "BitCrack",
+            "stars": 1054,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:56:49.604Z"
         },
@@ -939,7 +939,7 @@
             "open_issues": 2,
             "owner": "cdump",
             "repo": "evmole",
-            "stars": 473,
+            "stars": 474,
             "topics": [
               "bytecode",
               "ethereum",
@@ -1874,7 +1874,7 @@
             "open_issues": 4,
             "owner": "AzizKpln",
             "repo": "Gokboru_Intel",
-            "stars": 2144,
+            "stars": 2145,
             "topics": [
               "advanced",
               "advanced-osint-tool",
@@ -2154,7 +2154,7 @@
             "open_issues": 2,
             "owner": "sannykim",
             "repo": "solsec",
-            "stars": 894,
+            "stars": 895,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:49.604Z"
@@ -2228,7 +2228,7 @@
             "open_issues": 24,
             "owner": "denisnazarov",
             "repo": "awesome-crypto-trackers",
-            "stars": 485,
+            "stars": 486,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:49.604Z"
@@ -2712,7 +2712,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T03:20:07.356Z",
+    "last_updated": "2026-11-15T02:42:47.896Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we discuss how one can investigate crypto hacks and security incidents, and collect all the possible tools and manuals! PRs are welcome! If any tool is missing - please open PR!",
@@ -2724,7 +2724,7 @@
       "open_issues": 23,
       "owner": "OffcierCia",
       "repo": "On-Chain-Investigations-Tools-List",
-      "stars": 1989,
+      "stars": 1990,
       "topics": [
         "aml",
         "awesome",
