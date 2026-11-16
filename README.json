@@ -19,7 +19,7 @@
             "open_issues": 411,
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 24593,
+            "stars": 24615,
             "topics": [
               "attacksurface",
               "cti",
@@ -56,11 +56,11 @@
             "id": 188836864,
             "language": "Go",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-15T02:32:09Z",
-            "open_issues": 821,
+            "last_commit": "2026-11-16T02:46:23Z",
+            "open_issues": 801,
             "owner": "erigontech",
             "repo": "erigon",
-            "stars": 3627,
+            "stars": 3633,
             "topics": [
               "blockchain",
               "ethereum"
@@ -188,7 +188,7 @@
             "open_issues": 1,
             "owner": "cipher387",
             "repo": "maltego-transforms-list",
-            "stars": 278,
+            "stars": 279,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:49.604Z"
@@ -241,7 +241,7 @@
             "open_issues": 519,
             "owner": "3b1b",
             "repo": "manim",
-            "stars": 96532,
+            "stars": 96568,
             "topics": [
               "3b1b-videos",
               "animation",
@@ -520,11 +520,11 @@
             "id": 54346799,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-13T17:59:59Z",
-            "open_issues": 2710,
+            "last_commit": "2026-11-15T18:53:24Z",
+            "open_issues": 2697,
             "owner": "public-apis",
             "repo": "public-apis",
-            "stars": 499055,
+            "stars": 499318,
             "topics": [
               "api",
               "apis",
@@ -555,11 +555,11 @@
             "id": 162998479,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-14T05:13:08Z",
+            "last_commit": "2026-11-15T05:13:15Z",
             "open_issues": 414,
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 111831,
+            "stars": 112554,
             "topics": [
               "cli",
               "cti",
@@ -594,10 +594,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-28T04:14:29Z",
-            "open_issues": 543,
+            "open_issues": 542,
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 31034,
+            "stars": 31060,
             "topics": [
               "ai-powered",
               "ci-cd",
@@ -694,7 +694,7 @@
             "open_issues": 45,
             "owner": "Jon-Becker",
             "repo": "heimdall-rs",
-            "stars": 1643,
+            "stars": 1644,
             "topics": [
               "cfg",
               "decoder",
@@ -876,7 +876,7 @@
             "open_issues": 305,
             "owner": "brichard19",
             "repo": "BitCrack",
-            "stars": 1054,
+            "stars": 1053,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:49.604Z"
@@ -897,7 +897,7 @@
             "open_issues": 0,
             "owner": "drego85",
             "repo": "tosint",
-            "stars": 881,
+            "stars": 882,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:49.604Z"
@@ -1832,7 +1832,7 @@
             "open_issues": 28,
             "owner": "bkrem",
             "repo": "awesome-solidity",
-            "stars": 7073,
+            "stars": 7076,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1975,7 +1975,7 @@
             "open_issues": 7,
             "owner": "jiep",
             "repo": "offensive-ai-compilation",
-            "stars": 1448,
+            "stars": 1449,
             "topics": [
               "adversarial-machine-learning",
               "ai-security",
@@ -2128,7 +2128,7 @@
             "open_issues": 0,
             "owner": "dev-lu",
             "repo": "osint_toolkit",
-            "stars": 958,
+            "stars": 957,
             "topics": [
               "cybersecurity",
               "threat-detection",
@@ -2207,7 +2207,7 @@
             "open_issues": 0,
             "owner": "husseinmuhaisen",
             "repo": "DiscordOSINT",
-            "stars": 617,
+            "stars": 618,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:49.604Z"
@@ -2482,7 +2482,7 @@
             "open_issues": 2,
             "owner": "kareniel",
             "repo": "awesome-evm-security",
-            "stars": 198,
+            "stars": 199,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2712,7 +2712,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T02:42:47.896Z",
+    "last_updated": "2026-11-16T02:46:27.074Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we discuss how one can investigate crypto hacks and security incidents, and collect all the possible tools and manuals! PRs are welcome! If any tool is missing - please open PR!",
